@@ -1,0 +1,12 @@
+Bảng dữ liệu Vạn Kiếp Tu Tiên (bản 0.0.2)
+
+Mỗi file CSV là một loại nội dung, mỗi dòng một mục. Mở bằng Excel / Google Sheets / LibreOffice.
+- Ô số, chữ ghi thẳng; danh sách ghi a|b|c; trường lồng ghi JSON.
+- Cột _file: file gốc của mục, chỉ để tra.
+
+Sửa cho mod: chép những dòng / cột muốn đổi sang một file CSV mới, đặt vào content/bang/ của gói mod.
+- Dòng có id đã có: chỉ sửa các ô có chữ, ô trống giữ nguyên, ô ~ xóa trường.
+- Dòng id mới dạng <tiền tố>.<id mod>_<tên>: thêm mục mới (phải đủ trường bắt buộc).
+- Cột kiểu roi.0.linh_thach sửa sâu; cột chieu+ nối thêm vào danh sách.
+- Excel: lưu "CSV UTF-8 (Comma delimited)".
+Chi tiết: bang.md trong gói mod mẫu (nút "Tải mod mẫu" ở màn Mods).

@@ -1,0 +1,10 @@
+﻿id,ten,loai,pham_cap,canh_gioi,tru_vat,gia,mo_ta,tag,goi_y,noi_tai,theo_kiep,_file
+item.tu_bao_bon,Tụ Bảo Bồn,tru_vat,8,2,50,8000,"Chậu đồng của thương hội Trung Châu, lòng chậu khắc kín tên hàng và giá. Mang theo người đi chợ thì mua rẻ bán đắt, hàng giả hàng thật liếc qua là biết. Thêm 50 ô túi.",di_bao,"Trong tòa điện thờ thần tài cũ, kẻ nhận ra món thật giữa nghìn món giả mới mang được chậu đi.","{""gia_mua"":0.9,""gia_ban"":1.1,""nhin_hang"":1}",,/content/items/di_bao.yaml
+item.tru_vat_dai,Trữ Vật Đại,tru_vat,2,0,15,150,"Túi vải thêu trận văn, bên trong rộng hơn bên ngoài. Thêm 15 ô túi.",,,,,/content/items/tru_vat.yaml
+item.bach_bao_nang,Bách Bảo Nang,tru_vat,3,1,20,400,"Túi da giao long khâu chỉ bạc, miệng túi thắt chín nút trận, bỏ trăm món vẫn nhẹ như không. Thêm 20 ô túi.",,,,,/content/items/tru_vat.yaml
+item.tru_vat_gioi,Trữ Vật Giới,tru_vat,4,2,25,1000,"Nhẫn trữ vật, tu sĩ Trúc Cơ trở lên mới luyện hóa được. Thêm 25 ô túi.",,,,,/content/items/tru_vat.yaml
+item.tu_di_gioi,Tu Di Giới,tru_vat,5,3,33,3000,"Nhẫn ngọc khắc kinh Tu Di, hạt cải chứa núi, thần thức chạm vào là thấy một gian kho đá. Thêm 33 ô túi.",,,,,/content/items/tru_vat.yaml
+item.dong_thien_gioi,Động Thiên Giới,tru_vat,6,4,41,8000,"Trong nhẫn mở một động thiên nhỏ, có vách đá, có mạch nước, đồ cất vào không bám bụi thời gian. Thêm 41 ô túi.",,,,,/content/items/tru_vat.yaml
+item.tieu_can_khon_dai,Tiểu Càn Khôn Đại,tru_vat,7,5,49,20000,"Túi gấm thêu bát quái, mở miệng ra là một góc trời đất riêng, gió trong túi thổi theo phép của chủ. Thêm 49 ô túi.",,,,,/content/items/tru_vat.yaml
+item.can_khon_gioi,Càn Khôn Giới,tru_vat,8,2,60,8000,"Chiếc nhẫn chứa cả một tiểu thế giới. Nó theo hồn qua cầu Nại Hà, nhưng đồ bên trong thì ở lại với kiếp cũ. Thêm 60 ô túi.",di_bao,Chiếc nhẫn trên ngón tay xương khô vẫn giữ nguyên cả một tiểu thế giới.,,true,/content/items/tru_vat.yaml
+item.thon_kim_dai,Thôn Kim Đại,tru_vat,6,4,41,9200,"Túi da khâu từ túi má chuột già, miệng túi buộc dây vàng, nuốt vàng bạc như không. Thêm 41 ô túi.",,,,,/content/items/tru_vat.yaml

@@ -1,0 +1,6 @@
+﻿id,ten,loai,pham_cap,mo_ta,gia,tag,canh_gioi,_file
+item.ngu_thu_lenh,Ngự Thú Lệnh,khac,3,"Thẻ gỗ mun khắc đầu thú, thổi vào lỗ ở chuôi ra tiếng tai người không nghe được. Yêu thú đã đeo Thú Hoàn nghe tiếng là quay về.",180,chi_khai_bao,2,/content/items/luyen_che/khoi_loi.yaml
+item.nhan_cu,Nhẫn sắt cũ,khac,1,"Chiếc nhẫn gỉ sét, bên trong dường như có thứ gì đó đang ngủ.",,,,/content/items/tap_vat.yaml
+item.manh_ngoi_trung_chau,Mảnh ngói Trung Châu,khac,2,Mảnh ngói lưu ly ngư dân Vọng Hải vớt lên từ đáy biển. Hoa văn không giống bất kỳ triều nào còn lại.,30,,,/content/items/tap_vat.yaml
+item.do_gia,Đồ giả,khac,1,Đồ giả mua lầm. Giữ lại cho nhớ.,1,noi_bo|khong_nguon,,/content/items/tap_vat.yaml
+item.vat_la_phu_bui,Vật lạ phủ bụi,khac,1,"Một món bọc bụi dày cả tấc, gõ vào nghe đục, chủ sạp cũng không nhớ nhặt được ở đâu.",40,noi_bo|khong_nguon,,/content/items/tap_vat.yaml

@@ -1,0 +1,377 @@
+﻿id,ten,dang,uy,hoi,he,scope,effects,shieldTurns,pha_bao,devour,controlTurns,controlChance,_file
+chieu.huy_xich_han,Xích Hạn Phún Tức,cong,1.3,3,hoa,all,"[{""kind"":""burn"",""turns"":2,""ratio"":0.2,""chance"":0.5}]",,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.huy_luc_tuc_trien,Lục Túc Triền Thân,khong_che,0.7,4,tho,,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.bi_hi_phu_bi,Phụ Bi Trấn Địa,cong,1.8,3,tho,spread,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.bi_hi_thach_than,Thạch Thân Bất Động,thu,1.4,3,,,,2,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.trao_phong_ngu_phong,Lăng Diêm Ngự Phong,cong,1.4,1,phong,,"[{""kind"":""haste"",""turns"":1,""chance"":1}]",,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.trao_phong_truong_khieu,Trào Phong Trường Khiếu,khong_che,0.6,4,phong,,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.liet_diem_trac,Liệt Diễm Trác,cong,1,0,hoa,,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.tat_phuong_lieu_nguyen,Tất Phương Liệu Nguyên,cong,1.5,3,hoa,all,"[{""kind"":""burn"",""turns"":2,""ratio"":0.25,""chance"":0.6}]",,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.tat_phuong_doc_tuc,Độc Túc Phần Không,cong,1.9,2,hoa,,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.quy_nguu_loi_giac,Lôi Giác Xung,cong,1,0,loi,,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.quy_nguu_loi_de,Lôi Đề Chấn Nhạc,cong,1.8,2,loi,spread,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.quy_nguu_loi_hong,Quỳ Lôi Hống,khong_che,0.7,4,loi,all,,,,,,0.6,/content/enemies/di_thu/chieu.yaml
+chieu.toan_nghe_yen_hoa,Yên Hỏa Lung Tỏa,khong_che,0.7,4,hoa,spread,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.toan_nghe_su_hong,Toan Nghê Sư Hống,cong,1.4,3,hoa,all,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.phi_liem_quyen_phong,Phi Liêm Quyển Phong,cong,1.6,2,phong,all,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.phi_liem_phong_toa,Bát Phong Tỏa Không,khong_che,0.7,4,phong,,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.cuu_anh_thuy_hoa,Thủy Hỏa Giao Phún,cong,1.6,2,thuy,all,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.cuu_anh_liet_diem,Cửu Đầu Liệt Diễm,cong,2,3,hoa,spread,"[{""kind"":""burn"",""turns"":2,""ratio"":0.25,""chance"":0.5}]",,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.cuu_anh_de_khoc,Anh Đề Câu Hồn,khong_che,0.8,5,,all,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.cung_ky_phe_thien,Phệ Thiện Trảo,cong,1.6,1,kim,,"[{""kind"":""bleed"",""turns"":2,""ratio"":0.2,""chance"":0.5}]",,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.cung_ky_hung_si,Hung Sí Quyển Thiên,cong,1.8,3,phong,all,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.thao_thiet_thon_phe,Thôn Thiên Phệ Địa,cong,1.8,2,tho,spread,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.thao_thiet_hap_linh,Hấp Linh Tỏa Khí,khong_che,0.7,4,,all,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.thao_thiet_hoa_thuc,Hóa Thực Bổ Thân,hoi_phuc,1.6,4,,,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.ly_long_vi_tao,Long Vĩ Tảo,cong,1.4,1,thuy,spread,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.ly_long_hanh_vu,Ly Long Hành Vũ,cong,1.6,3,thuy,all,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.ly_long_uy,Long Uy Áp Thế,khong_che,0.8,5,,all,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.hoa_lan_giac_xung,Lân Giác Xung,cong,1.2,0,hoa,,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.hoa_lan_tinh_the,Lân Hỏa Tịnh Thế,cong,1.5,3,hoa,all,"[{""kind"":""burn"",""turns"":2,""ratio"":0.2,""chance"":0.5}]",,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.hoa_lan_thuy_quang,Thụy Quang Hộ Thể,thu,1.3,3,,,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.huyen_quy_xa_vi,Xà Vĩ Phệ Hàn,cong,1.4,1,bang,,"[{""kind"":""chill"",""turns"":2,""ratio"":0.1,""chance"":0.5}]",,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.huyen_quy_dao_quyen,Huyền Thủy Đảo Quyển,cong,1.5,3,thuy,all,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.huyen_quy_tran_hai,Huyền Vũ Trấn Hải,thu,1.5,3,,,,2,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.hoa_loan_xich_vu,Xích Vũ Phi Tiễn,cong,1.3,1,hoa,spread,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.hoa_loan_phan_thien,Loan Hỏa Phần Thiên,cong,1.5,3,hoa,all,"[{""kind"":""burn"",""turns"":2,""ratio"":0.25,""chance"":0.5}]",,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.thanh_loan_vu_tien,Thanh Vũ Phong Tiễn,cong,1.4,1,phong,spread,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.thanh_loan_minh,Loan Minh Cửu Tiêu,khong_che,0.7,4,phong,all,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.thanh_loan_hoi_xuan,Thanh Mộc Hồi Xuân,hoi_phuc,1.4,5,moc,,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.loc_thuc_dao_ca,Lộc Thục Dao Ca,khong_che,0.6,4,moc,,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.thien_cau_thuc_nhat,Thiên Cẩu Thực Nhật,khong_che,0.5,5,hoa,all,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.dao_ngot_hoanh_xung,Đào Ngột Hoành Xung,cong,1.7,3,tho,spread,,,,,,,/content/enemies/di_thu/chieu.yaml
+chieu.am_phong,Âm Phong,cong,1,0,,spread,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.nhiep_hon,Nhiếp Hồn,khong_che,0.6,3,am,,"[{""kind"":""decay"",""turns"":2,""ratio"":0.25,""chance"":0.6}]",,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.quy_khoc,Quỷ Khốc,cong,2,3,am,all,"[{""kind"":""decay"",""turns"":2,""ratio"":0.2,""chance"":0.5}]",,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.thi_doc_trao,Thi Độc Trảo,cong,1.4,1,,,"[{""kind"":""decay"",""turns"":2,""ratio"":0.2,""chance"":0.5}]",,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.oan_niem_trien_than,Oán Niệm Triền Thân,khong_che,0.5,4,,,"[{""kind"":""decay"",""turns"":3,""ratio"":0.2,""chance"":0.6}]",,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.u_thuy_trao,U Thủy Trảo,cong,1,0,thuy,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.tram_thuy_phuoc,Trầm Thủy Phược,khong_che,0.7,4,thuy,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.toai_thach_trao,Toái Thạch Trảo,cong,1.6,2,tho,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.hac_tran_phun,Hắc Trần Phún,khong_che,0.5,4,tho,all,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.kim_tam_phe_tam,Kim Tằm Phệ Tâm,cong,1,0,kim,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.co_doc_xam_mach,Cổ Độc Xâm Mạch,khong_che,0.6,4,moc,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.van_co_phe_than,Vạn Cổ Phệ Thân,cong,1.8,3,moc,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.mi_anh_me_hon,Mị Ảnh Mê Hồn,khong_che,0.7,4,,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.u_hoa_ho_dang,U Hỏa Hồ Đăng,cong,1.8,3,hoa,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.tan_dao_tram,Tàn Đao Trảm,cong,2,3,kim,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.thi_giap_ho_than,Thi Giáp Hộ Thân,thu,1,4,,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.kho_huyet_trao,Khô Huyết Trảo,cong,1.2,0,hoa,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.xich_dia_thien_ly,Xích Địa Thiên Lý,cong,2.2,4,hoa,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.han_khi_phan_tam,Hạn Khí Phần Tâm,khong_che,0.8,5,hoa,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.u_minh_dan_hon,U Minh Dẫn Hồn,khong_che,0.8,5,am,,"[{""kind"":""decay"",""turns"":3,""ratio"":0.25,""chance"":0.6}]",,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.van_hon_phe,Vạn Hồn Phệ,cong,2,3,am,,"[{""kind"":""decay"",""turns"":2,""ratio"":0.3,""chance"":0.6}]",,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.thon_hon_bo_than,Thôn Hồn Bổ Thân,hoi_phuc,1.5,5,,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.thuc_linh_quy_trao,Thực Linh Quỷ Trảo,cong,1.62,3,,,,,true,true,,,/content/enemies/ta_vat/chieu.yaml
+chieu.lan_hoa,Lân Hỏa,cong,1,0,hoa,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.khien_tuc_tram_uyen,Khiên Túc Trầm Uyên,khong_che,0.6,3,thuy,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.bach_cot_mau,Bạch Cốt Mâu,cong,1,0,kim,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.toai_cot_phi_tien,Toái Cốt Phi Tiễn,cong,1.3,3,kim,spread,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.am_qua_thu,Âm Qua Thứ,cong,1,0,kim,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.am_sat_tram,Âm Sát Trảm,cong,2,3,kim,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.thi_than_chang,Thi Thân Chàng,cong,1.6,2,tho,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.phe_huyet_trao,Phệ Huyết Trảo,cong,1.2,0,,,"[{""kind"":""bleed"",""turns"":2,""ratio"":0.1,""chance"":0.4}]",,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.thi_mao_trien,Thi Mao Triền,khong_che,0.7,4,kim,,"[{""kind"":""decay"",""turns"":2,""ratio"":0.2,""chance"":0.6}]",,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.thi_dang_phuoc,Thi Đằng Phược,khong_che,0.7,4,moc,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.han_thi_trao,Hàn Thi Trảo,cong,1.2,0,bang,,"[{""kind"":""chill"",""turns"":2,""ratio"":0.1,""chance"":0.4}]",,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.quy_trao_dao_tam,Quỷ Trảo Đào Tâm,cong,1.8,2,am,,"[{""kind"":""decay"",""turns"":2,""ratio"":0.25,""chance"":0.5}]",,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.phi_thi_phoc_kich,Phi Thi Phốc Kích,cong,1.8,3,tho,,,,,true,,,/content/enemies/ta_vat/chieu.yaml
+chieu.thi_sat_vu,Thi Sát Vụ,khong_che,0.5,4,tho,all,"[{""kind"":""poison"",""turns"":2,""ratio"":0.1,""chance"":0.5},{""kind"":""decay"",""turns"":2,""ratio"":0.2,""chance"":0.5}]",,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.huyet_anh_phan_quang,Huyết Ảnh Phân Quang,cong,1.1,0,hoa,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.huyet_chu,Huyết Chú,khong_che,0.8,4,,,"[{""kind"":""bleed"",""turns"":3,""ratio"":0.1,""chance"":0.6}]",,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.huyet_hai_phien_dao,Huyết Hải Phiên Đào,cong,2,4,hoa,all,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.bach_quy_da_hanh,Bách Quỷ Dạ Hành,cong,2.4,4,am,all,"[{""kind"":""decay"",""turns"":2,""ratio"":0.25,""chance"":0.5}]",,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.u_minh_tran_hon,U Minh Trấn Hồn,khong_che,0.9,5,bang,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.van_huyet_quy_tong,Vạn Huyết Quy Tông,cong,1.8,4,hoa,all,"[{""kind"":""bleed"",""turns"":2,""ratio"":0.2,""chance"":0.5}]",,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.cot_thuong_hoanh_tao,Cốt Thương Hoành Tảo,cong,1.5,3,kim,spread,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.am_hoa_phan_hai,Âm Hỏa Phần Hải,cong,1.7,4,hoa,all,"[{""kind"":""burn"",""turns"":2,""ratio"":0.2,""chance"":0.5},{""kind"":""decay"",""turns"":2,""ratio"":0.25,""chance"":0.5}]",,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.ho_danh_me_lo,Hô Danh Mê Lộ,khong_che,0.6,4,,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.hai_vu_me_chu,Hải Vụ Mê Chu,khong_che,0.5,4,thuy,all,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.thoi_nhai_chuong,Thôi Nhai Chưởng,cong,1.8,3,phong,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.dieu_hon_thang,Điếu Hồn Thằng,khong_che,0.8,4,am,,"[{""kind"":""decay"",""turns"":3,""ratio"":0.25,""chance"":0.6}]",,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.uyen_thuy_toan,Uyên Thủy Toàn,cong,1.6,3,thuy,spread,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.liem_bo_trien,Liệm Bố Triền,khong_che,0.7,4,tho,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.han_phach_khieu,Hàn Phách Khiếu,cong,1.4,2,bang,spread,"[{""kind"":""chill"",""turns"":2,""ratio"":0.1,""chance"":0.5},{""kind"":""decay"",""turns"":2,""ratio"":0.2,""chance"":0.5}]",,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.quan_cai_ap,Quan Cái Áp,khong_che,0.8,4,tho,,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.giang_trieu_quyen,Giang Triều Quyển,cong,1.8,4,thuy,all,,,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.hoe_can_thu,Hòe Căn Thứ,cong,1.2,0,moc,,"[{""kind"":""bleed"",""turns"":2,""ratio"":0.1,""chance"":0.4}]",,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.quy_hoa_trien,Quỷ Hỏa Triền,cong,0.8,0,hoa,,"[{""kind"":""burn"",""turns"":2,""ratio"":0.15,""chance"":0.5}]",,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.hu_nha_giao,Hủ Nha Giảo,cong,0.8,0,tho,,"[{""kind"":""poison"",""turns"":2,""ratio"":0.15,""chance"":0.5}]",,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.hong_cai_phe_huyet,Hồng Cái Phệ Huyết,cong,1.4,1,,,"[{""kind"":""bleed"",""turns"":2,""ratio"":0.15,""chance"":0.5},{""kind"":""decay"",""turns"":2,""ratio"":0.2,""chance"":0.5}]",,,,,,/content/enemies/ta_vat/chieu.yaml
+chieu.phong_lang_doc_vuc,Phong Lăng Độc Vực,cong,1.8,4,moc,all,"[{""kind"":""poison"",""turns"":3,""ratio"":0.25,""chance"":0.6}]",,,,,,/content/enemies/thu_bao/chieu.yaml
+chieu.ngu_hanh_phong_an,Ngũ Hành Phong Ấn,khong_che,1,5,,,,,,,2,,/content/enemies/thu_bao/chieu.yaml
+chieu.van_kiem_tang_hon,Vạn Kiếm Táng Hồn,cong,2,4,kim,all,"[{""kind"":""bleed"",""turns"":2,""ratio"":0.15,""chance"":0.5}]",,,,,,/content/enemies/thu_bao/chieu.yaml
+chieu.minh_hoa_phan_hon,Minh Hỏa Phần Hồn,cong,1.8,4,hoa,all,"[{""kind"":""burn"",""turns"":2,""ratio"":0.25,""chance"":0.6}]",,,,,,/content/enemies/thu_bao/chieu.yaml
+chieu.co_lan_ho_the,Cổ Lân Hộ Thể,thu,1.4,4,thuy,,,2,,,,,/content/enemies/thu_bao/chieu.yaml
+chieu.chien_ky_quyen_van,Chiến Kỳ Quyển Vân,cong,1.8,4,kim,all,,,,,,,/content/enemies/thu_bao/chieu.yaml
+chieu.thanh_dang_kich,Thanh Đằng Kích,cong,1,0,moc,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.thanh_dang_phuoc,Thanh Đằng Phược,khong_che,0.6,3,moc,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.thuc_hoa_thon_phe,Thực Hoa Thôn Phệ,cong,1.7,3,moc,,"[{""kind"":""bleed"",""turns"":2,""ratio"":0.15,""chance"":0.5}]",,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.doc_phan_phun,Độc Phấn Phún,cong,0.8,2,moc,spread,"[{""kind"":""poison"",""turns"":2,""ratio"":0.15,""chance"":0.6}]",,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.am_moc_trui,Âm Mộc Trùy,cong,1.1,0,moc,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.hoe_am_trien_hon,Hòe Âm Triền Hồn,khong_che,0.6,4,thuy,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.co_thu_cu_chi,Cổ Thụ Cự Chi,cong,1.2,0,moc,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.ban_can_phuoc,Bàn Căn Phược,khong_che,0.7,4,moc,,,,,,2,,/content/enemies/tinh_quai/chieu.yaml
+chieu.van_can_xuyen_dia,Vạn Căn Xuyên Địa,cong,1.6,4,moc,all,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.thu_hai_tran_ap,Thụ Hải Trấn Áp,cong,2.2,4,moc,all,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.thanh_moc_hoi_xuan,Thanh Mộc Hồi Xuân,hoi_phuc,1.5,5,,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.dong_diep_phan_phong,Đồng Diệp Phần Phong,cong,1.5,2,hoa,spread,"[{""kind"":""burn"",""turns"":2,""ratio"":0.2,""chance"":0.5}]",,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.phuong_te_linh_quang,Phượng Tê Linh Quang,hoi_phuc,1.5,5,,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.lac_thach_kich,Lạc Thạch Kích,cong,1,0,tho,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.thach_bi_ngung,Thạch Bì Ngưng,thu,1,3,,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.toai_nham_bao,Toái Nham Bạo,cong,1.2,2,tho,spread,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.tran_mo_quyen,Trấn Mộ Quyền,cong,1.6,2,tho,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.thach_hoa_nhan,Thạch Hóa Nhãn,khong_che,0.7,4,tho,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.liet_son_quyen,Liệt Sơn Quyền,cong,1.8,2,tho,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.son_bang_dia_liet,Sơn Băng Địa Liệt,cong,1.6,4,tho,all,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.ngoc_mang_cham,Ngọc Mang Châm,cong,1,0,kim,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.luu_ly_bich_chuong,Lưu Ly Bích Chướng,thu,1.2,3,,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.ngoc_toai_tinh_mang,Ngọc Toái Tinh Mang,cong,1.5,3,kim,spread,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.can_tu_tien,Căn Tu Tiên,cong,0.8,0,moc,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.duoc_huong_me_than,Dược Hương Mê Thần,khong_che,0.5,4,moc,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.tho_don_tang_linh,Thổ Độn Tàng Linh,thu,1,3,tho,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.chi_van_ho_the,Chi Vân Hộ Thể,thu,1.2,3,,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.tuyet_lien_han_quang,Tuyết Liên Hàn Quang,cong,1,1,bang,,"[{""kind"":""chill"",""turns"":2,""ratio"":0.1,""chance"":0.5}]",,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.chi_nhan_phi_toa,Chỉ Nhận Phi Toa,cong,1,0,moc,,"[{""kind"":""bleed"",""turns"":2,""ratio"":0.1,""chance"":0.4}]",,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.am_phu_phuoc,Âm Phù Phược,khong_che,0.5,3,,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.kinh_mang_pha,Kính Mang Phá,cong,1,0,kim,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.co_kinh_chieu_hon,Cổ Kính Chiếu Hồn,khong_che,0.7,4,thuy,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.dinh_hoa_phan,Đỉnh Hỏa Phần,cong,1.4,2,hoa,,"[{""kind"":""burn"",""turns"":2,""ratio"":0.2,""chance"":0.5}]",,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.cu_dinh_tran,Cự Đỉnh Trấn,cong,1.6,3,kim,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.dong_bi_ho_than,Đồng Bì Hộ Thân,thu,1,4,,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.tan_kiem_tram,Tàn Kiếm Trảm,cong,1.1,0,kim,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.am_ba_chan,Âm Ba Chấn,cong,1.4,2,kim,all,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.hong_chung_chan_hon,Hồng Chung Chấn Hồn,khong_che,0.6,4,kim,all,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.kim_chung_trao,Kim Chung Tráo,thu,1.2,4,,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.thuy_hau_trao,Thủy Hầu Trảo,cong,1,0,thuy,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.lang_dao_kich,Lãng Đào Kích,cong,1.2,2,thuy,spread,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.thuy_linh_hoi_luu,Thủy Linh Hồi Lưu,hoi_phuc,1.2,5,,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.xich_diem_trao,Xích Diễm Trảo,cong,1,0,hoa,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.hoa_tinh_bao_liet,Hỏa Tinh Bạo Liệt,cong,1.4,2,hoa,spread,"[{""kind"":""burn"",""turns"":2,""ratio"":0.2,""chance"":0.5}]",,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.nham_tuong_quyen,Nham Tương Quyền,cong,1.2,0,hoa,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.dung_nham_phun_dung,Dung Nham Phún Dũng,cong,1.8,4,hoa,all,"[{""kind"":""burn"",""turns"":2,""ratio"":0.2,""chance"":0.5}]",,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.hoa_nham_giap,Hỏa Nham Giáp,thu,1.2,4,,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.toan_phong_nhan,Toàn Phong Nhận,cong,1,0,phong,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.toan_phong_quyen,Toàn Phong Quyển,cong,1,2,phong,all,"[{""kind"":""haste"",""turns"":1,""chance"":1}]",,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.loi_xa_tien,Lôi Xà Tiên,cong,1.1,0,loi,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.loi_vong,Lôi Võng,khong_che,0.6,4,loi,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.loi_bao_pha,Lôi Bạo Phá,cong,1.6,3,loi,all,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.thien_loi_giang,Thiên Lôi Giáng,cong,2.2,4,loi,all,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.bang_phach_han_quang,Băng Phách Hàn Quang,cong,1,1,bang,,"[{""kind"":""chill"",""turns"":2,""ratio"":0.1,""chance"":0.5}]",,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.huyen_bang_phong,Huyền Băng Phong,khong_che,0.6,4,bang,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.van_nien_han_phong,Vạn Niên Hàn Phong,cong,1.4,3,bang,all,"[{""kind"":""chill"",""turns"":2,""ratio"":0.1,""chance"":0.5}]",,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.vu_anh_kich,Vụ Ảnh Kích,cong,1,0,thuy,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.me_vu_toa,Mê Vụ Tỏa,khong_che,0.5,3,thuy,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.chuong_doc_man_thien,Chướng Độc Mạn Thiên,cong,1.2,2,moc,all,"[{""kind"":""poison"",""turns"":2,""ratio"":0.15,""chance"":0.6}]",,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.doc_vu_trien,Độc Vụ Triền,khong_che,0.6,4,moc,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.bao_tu_phun,Bào Tử Phún,cong,0.8,1,moc,spread,"[{""kind"":""poison"",""turns"":2,""ratio"":0.15,""chance"":0.5}]",,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.sa_bao_kich,Sa Bạo Kích,cong,1,0,tho,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.luu_sa_ham,Lưu Sa Hãm,khong_che,0.5,3,tho,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.kinh_cuc_thich,Kinh Cức Thích,cong,1,0,moc,,"[{""kind"":""bleed"",""turns"":2,""ratio"":0.1,""chance"":0.4}]",,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.thanh_truc_thu,Thanh Trúc Thứ,cong,1,0,moc,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.truc_diep_phi_dao,Trúc Diệp Phi Đao,cong,1,2,kim,spread,"[{""kind"":""bleed"",""turns"":2,""ratio"":0.1,""chance"":0.5}]",,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.dao_hoa_phi_vu,Đào Hoa Phi Vũ,cong,1.2,2,moc,spread,"[{""kind"":""bleed"",""turns"":2,""ratio"":0.12,""chance"":0.5}]",,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.tung_cham_vu,Tùng Châm Vũ,cong,1.4,3,kim,all,"[{""kind"":""bleed"",""turns"":2,""ratio"":0.12,""chance"":0.5}]",,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.con_thach_xung,Cổn Thạch Xung,cong,1.4,2,tho,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.bi_van_tran,Bi Văn Trấn,khong_che,0.6,3,tho,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.huyet_ngoc_phe_tam,Huyết Ngọc Phệ Tâm,cong,1.6,2,hoa,,"[{""kind"":""bleed"",""turns"":2,""ratio"":0.15,""chance"":0.5}]",,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.kim_tien_tieu,Kim Tiền Tiêu,cong,1,0,kim,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.dong_tien_toa,Đồng Tiền Tỏa,khong_che,0.5,3,kim,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.co_an_kich,Cổ Ấn Kích,cong,1.2,0,kim,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.co_an_tran_son,Cổ Ấn Trấn Sơn,cong,1.8,4,tho,all,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.an_van_phong_mach,Ấn Văn Phong Mạch,khong_che,0.7,4,kim,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.cau_loi_lien_bao,Cầu Lôi Liên Bạo,cong,1.3,2,loi,spread,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.kich_moc_loi_chi,Kích Mộc Lôi Chi,cong,1.5,2,loi,,"[{""kind"":""burn"",""turns"":2,""ratio"":0.2,""chance"":0.5}]",,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.dan_loi_quan_dinh,Dẫn Lôi Quán Đỉnh,cong,2,3,loi,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.bang_lang_trui,Băng Lăng Trùy,cong,1,1,bang,,"[{""kind"":""chill"",""turns"":2,""ratio"":0.1,""chance"":0.4}]",,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.tuyet_son_ap_dinh,Tuyết Sơn Áp Đỉnh,cong,1.3,3,bang,all,"[{""kind"":""chill"",""turns"":2,""ratio"":0.1,""chance"":0.5}]",,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.han_bang_giap,Hàn Băng Giáp,thu,1.1,4,,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.han_nguyet_quang,Hàn Nguyệt Quang,cong,1.3,2,bang,spread,"[{""kind"":""chill"",""turns"":2,""ratio"":0.12,""chance"":0.5}]",,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.tan_liem_tram,Tàn Liêm Trảm,cong,1,0,,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.thao_thang_phuoc,Thảo Thằng Phược,khong_che,0.5,4,moc,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.tan_cot_thich,Tán Cốt Thích,cong,1,0,kim,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.co_tan_gia_thien,Cổ Tán Già Thiên,thu,1.2,3,phong,,,,,,,,/content/enemies/tinh_quai/chieu.yaml
+chieu.phe_kim_giao,Phệ Kim Giảo,cong,1,0,kim,,"[{""kind"":""sunder"",""turns"":2,""ratio"":0.1,""chance"":0.4}]",,,,,,/content/enemies/trung/chieu.yaml
+chieu.xuyen_giap_dot,Xuyên Giáp Đột,cong,1.7,2,kim,,"[{""kind"":""sunder"",""turns"":3,""ratio"":0.15,""chance"":0.6}]",,,,,,/content/enemies/trung/chieu.yaml
+chieu.kim_giap_ngung,Kim Giáp Ngưng,thu,1.2,3,kim,,,,,,,,/content/enemies/trung/chieu.yaml
+chieu.van_trung_phe_kim,Vạn Trùng Phệ Kim,cong,1.5,4,kim,all,"[{""kind"":""sunder"",""turns"":2,""ratio"":0.1,""chance"":0.5}]",,,,,,/content/enemies/trung/chieu.yaml
+chieu.doc_nha_giao,Độc Nha Giảo,cong,0.9,0,moc,,"[{""kind"":""poison"",""turns"":2,""ratio"":0.15,""chance"":0.5}]",,,,,,/content/enemies/trung/chieu.yaml
+chieu.chu_ti_phuoc,Chu Ti Phược,khong_che,0.6,4,thuy,,"[{""kind"":""poison"",""turns"":2,""ratio"":0.1,""chance"":0.5}]",,,,,,/content/enemies/trung/chieu.yaml
+chieu.ngu_doc_vu,Ngũ Độc Vụ,cong,0.9,2,thuy,spread,"[{""kind"":""poison"",""turns"":2,""ratio"":0.15,""chance"":0.6}]",,,,,,/content/enemies/trung/chieu.yaml
+chieu.huyet_co_toan,Huyết Cổ Toản,cong,1,0,,,"[{""kind"":""bleed"",""turns"":2,""ratio"":0.1,""chance"":0.4}]",,,,,,/content/enemies/trung/chieu.yaml
+chieu.thien_tam_phuoc,Thiên Tằm Phược,khong_che,0.7,4,moc,,"[{""kind"":""bleed"",""turns"":2,""ratio"":0.15,""chance"":0.5}]",,,,,,/content/enemies/trung/chieu.yaml
+chieu.huyet_van_cham,Huyết Văn Châm,cong,1,0,,,,,,,,,/content/enemies/trung/chieu.yaml
+chieu.phap_thuat,Pháp Thuật,cong,1,0,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.ho_the_chan_khi,Hộ Thể Chân Khí,thu,1,3,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.sat_chieu,Sát Chiêu,cong,2.2,3,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.lieu_thuong,Liệu Thương,hoi_phuc,1.5,5,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.loan_phach_dao,Loạn Phách Đao,cong,1,0,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.khai_son_phu,Khai Sơn Phủ,cong,1.7,2,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.thach_hoi_phan,Thạch Hôi Phấn,khong_che,0.5,4,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.phi_xoa,Phi Xoa Thích,cong,1,0,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.la_vong_phuoc,La Võng Phược,khong_che,0.6,4,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.phien_giang_lang,Phiên Giang Lãng,cong,1.8,3,thuy,spread,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.doat_menh_tieu,Đoạt Mệnh Tiêu,cong,1,0,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.me_hon_yen,Mê Hồn Yên,khong_che,0.6,4,,all,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.hac_ho_dao_tam,Hắc Hổ Đào Tâm,cong,2,3,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.loan_quyen,Loạn Quyền,cong,1,0,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.tiem_thuy_thich,Tiềm Thủy Thích,cong,1.7,2,thuy,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.phich_lich_dan,Phích Lịch Đạn,cong,1.5,3,hoa,spread,"[{""kind"":""burn"",""turns"":2,""ratio"":0.1,""chance"":0.4}]",,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.phac_dao_tram,Phác Đao Trảm,cong,1,0,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.thiet_xich_toa,Thiết Xích Tỏa,khong_che,0.7,4,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.truy_phong_cuoc,Truy Phong Cước,cong,1.6,2,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.truong_thuong_thich,Trường Thương Thích,cong,1,0,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.thiet_thuan_tran,Thiết Thuẫn Trận,thu,1,3,,allies,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.liet_duong_tram,Liệt Dương Trảm,cong,2,3,hoa,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.ho_tieu_con,Hộ Tiêu Côn,cong,1,0,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.thiet_bich_thu,Thiết Bích Thủ,thu,1.2,3,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.thiet_toan_ban,Thiết Toán Bàn,cong,1.6,2,kim,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.kim_ti_phuoc,Kim Ti Phược,khong_che,0.7,4,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.thuy_hoa_con,Thủy Hỏa Côn,cong,1,0,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.tran_pham_phu,Trấn Phạm Phù,khong_che,0.6,4,loi,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.tu_xuan_dao,Tú Xuân Đao,cong,1,0,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.minh_kinh_cao_huyen,Minh Kính Cao Huyền,cong,2,3,kim,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.tram_ma_dao,Trảm Mã Đao,cong,1.7,2,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.lien_hoan_kiem,Liên Hoàn Kiếm,cong,1,0,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.bat_kiem_thuc,Bạt Kiếm Thức,cong,1.6,2,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.nhat_tuyen_thien,Nhất Tuyến Thiên,cong,2.2,3,kim,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.nguu_mao_cham,Ngưu Mao Châm,cong,1,0,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.phong_hau_thich,Phong Hầu Thích,cong,2.2,3,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.anh_don,Ảnh Độn,thu,1,3,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.toa_hon_ti,Tỏa Hồn Ti,khong_che,0.8,5,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.truy_menh_no,Truy Mệnh Nỗ,cong,1.6,2,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.cau_liem_toa,Câu Liêm Tỏa,khong_che,0.7,4,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.thiet_cot_phien,Thiết Cốt Phiến,cong,1.5,3,phong,spread,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.mai_hoa_lac,Mai Hoa Lạc,cong,1.4,2,moc,,"[{""kind"":""bleed"",""turns"":2,""ratio"":0.1,""chance"":0.5}]",,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.thuc_cot_co,Thực Cốt Cổ,cong,1,0,moc,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.khien_ti_co,Khiên Ti Cổ,khong_che,0.6,4,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.huyet_co_bao,Huyết Cổ Bạo,cong,2,3,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.phe_tam_co,Phệ Tâm Cổ,cong,1,0,moc,,"[{""kind"":""poison"",""turns"":2,""ratio"":0.1,""chance"":0.3}]",,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.than_thuc_tran_ap,Thần Thức Trấn Áp,khong_che,0.8,5,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.phap_tuong,Pháp Tướng Thiên Địa,cong,2.2,4,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.kiem_khi_tung_hoanh,Kiếm Khí Tung Hoành,cong,1.6,2,kim,spread,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.van_kiem_quy_tong,Vạn Kiếm Quy Tông,cong,2.2,4,kim,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.ngu_loi,Ngũ Lôi Chính Pháp,cong,2,3,loi,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.tam_muoi_chan_hoa,Tam Muội Chân Hỏa,cong,2,3,hoa,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.linh_vuc,Lĩnh Vực Giáng Lâm,khong_che,0.8,6,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.huyet_anh_doat_menh,Huyết Ảnh Đoạt Mệnh,cong,2,3,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.huyet_te,Huyết Tế Hồi Nguyên,hoi_phuc,1.5,5,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.doat_bao_chi,Đoạt Bảo Chỉ,cong,1.8,4,,,,,true,,,,/content/enemies/tu_si/chieu.yaml
+chieu.huyet_o_an,Huyết Ô Ấn,cong,1.8,4,,,,,true,,,,/content/enemies/tu_si/chieu.yaml
+chieu.dao_hoa_chuong,Đào Hoa Chưởng,cong,1,0,moc,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.mi_nhan_cau_hon,Mị Nhãn Câu Hồn,khong_che,0.5,4,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.van_hoa_doat_nguyen,Vạn Hoa Đoạt Nguyên,cong,2,3,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.thien_ma_mi_vu,Thiên Ma Mị Vũ,khong_che,0.6,5,,spread,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.bo_thu_giap,Bộ Thú Giáp,khong_che,0.6,4,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.lac_duong_san,Lạc Dương Sạn,cong,1,0,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.thi_phan_yen,Thi Phấn Yên,khong_che,0.5,4,,,"[{""kind"":""poison"",""turns"":2,""ratio"":0.15,""chance"":0.6}]",,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.khu_thu_tien,Khu Thú Tiên,cong,1,0,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.ngu_thu_hong,Ngự Thú Hống,thu,0.8,4,,allies,"[{""kind"":""haste"",""turns"":1,""chance"":1,""scope"":""allies""}]",,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.co_quan_no,Cơ Quan Nỗ,cong,1,0,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.thien_ti_khien,Thiên Ti Khiên,khong_che,0.6,4,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.khoi_ti_ho_chu,Khôi Ti Hộ Chủ,thu,1.3,4,,,,2,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.van_co_tien,Vạn Cơ Tiễn,cong,1.6,3,,spread,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.thi_sat_chuong,Thi Sát Chưởng,cong,1,0,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.ngu_thi_chu,Ngự Thi Chú,thu,1,4,,allies,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.moc_ty_kich,Mộc Tý Kích,cong,1,0,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.co_quan_tien,Cơ Quan Tiễn,cong,1.2,3,,spread,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.dong_quyen_oanh,Đồng Quyền Oanh,cong,1,0,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.toa_cot_xich,Tỏa Cốt Xích,khong_che,0.6,4,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.thi_khoi_bao,Thi Khôi Bạo,cong,2,3,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.co_chien_tram,Cổ Chiến Trảm,cong,1,0,kim,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.pha_quan_kich,Phá Quân Kích,cong,1.6,3,kim,spread,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.lien_quan_tran,Liên Quân Trận,thu,1.2,4,,allies,,2,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.doan_thien_nhat_kich,Đoạn Thiên Nhất Kích,cong,2.6,5,loi,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.thiet_nha_giao,Thiết Nha Giảo,cong,1.3,2,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.dong_hac_trac,Đồng Hạc Trác,cong,1,0,kim,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.hac_vu_phi_dao,Hạc Vũ Phi Đao,cong,1.3,3,kim,spread,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.chan_dia_oanh,Chấn Địa Oanh,cong,1.6,3,tho,spread,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.huyet_sat_trao,Huyết Sát Trảo,cong,1,0,,,"[{""kind"":""bleed"",""turns"":2,""ratio"":0.1,""chance"":0.3}]",,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.huyet_vu_phieu_linh,Huyết Vũ Phiêu Linh,cong,1.3,3,,spread,"[{""kind"":""bleed"",""turns"":2,""ratio"":0.1,""chance"":0.4}]",,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.lac_hon_linh,Lạc Hồn Linh,khong_che,0.5,4,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.am_thi_vu,Âm Thi Vụ,cong,1.2,3,tho,spread,"[{""kind"":""poison"",""turns"":2,""ratio"":0.1,""chance"":0.4}]",,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.ngu_doc_chuong,Ngũ Độc Chưởng,cong,1,0,moc,,"[{""kind"":""poison"",""turns"":2,""ratio"":0.1,""chance"":0.4}]",,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.van_co_xuat_dong,Vạn Cổ Xuất Động,cong,1.3,3,moc,spread,"[{""kind"":""poison"",""turns"":2,""ratio"":0.15,""chance"":0.5}]",,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.doat_phach_chi,Đoạt Phách Chỉ,cong,1,0,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.quy_anh_trien_than,Quỷ Ảnh Triền Thân,khong_che,0.6,4,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.u_minh_quy_hoa,U Minh Quỷ Hỏa,cong,1.4,2,hoa,,"[{""kind"":""burn"",""turns"":2,""ratio"":0.1,""chance"":0.4}]",,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.hong_tu_trien_ti,Hồng Tụ Triền Ti,khong_che,0.6,4,,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.dao_moc_tram,Đào Mộc Trảm,cong,1,0,moc,,,,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.phun_tuu_hoa,Phún Tửu Hỏa,cong,1.3,1,hoa,,"[{""kind"":""burn"",""turns"":2,""ratio"":0.1,""chance"":0.4}]",,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.doan_truong_cham,Đoạn Trường Châm,cong,0.8,0,moc,,"[{""kind"":""poison"",""turns"":2,""ratio"":0.2,""chance"":0.5}]",,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.song_cau_lien_tram,Song Câu Liên Trảm,cong,1,0,kim,,"[{""kind"":""bleed"",""turns"":2,""ratio"":0.1,""chance"":0.4}]",,,,,,/content/enemies/tu_si/chieu.yaml
+chieu.can_xe,Yêu Nha Phệ,cong,1,0,,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.vo,Mãnh Phác,cong,1.6,2,,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.gam_thet,Yêu Hống,khong_che,0.6,4,,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.lang_hu_goi_ban,Quần Lang Khiếu Nguyệt,khong_che,0.6,4,,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.lang_xe_nat,Liệt Cốt Trảo,cong,2,3,,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.lang_vuong_hu,Thiên Lang Khiếu,khong_che,0.8,5,,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.ho_mi_thuat,Hồ Mị Nhiếp Hồn,khong_che,0.7,4,,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.huyen_hoa,Huyễn Hồ Hỏa,cong,1.4,2,hoa,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.giao_han_tuc,Hàn Giao Thổ Tức,cong,1.8,3,bang,,"[{""kind"":""chill"",""turns"":2,""ratio"":0.1,""chance"":0.5}]",,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.quy_giap_thu,Huyền Giáp Bế Thủ,thu,1.2,3,,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.ngu_dinh_ba,Thủy Xoa Thích,cong,1.3,1,thuy,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.thiem_chuong_khi,Thiềm Độc Chướng,khong_che,0.6,4,,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.hac_canh_quat,Bạch Hạc Lượng Sí,cong,1.6,2,phong,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.bang_phong_nhan,Phong Nhận,cong,1.7,2,phong,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.han_vu_tien,Hàn Vũ Tiễn,cong,1.2,2,bang,,"[{""kind"":""chill"",""turns"":2,""ratio"":0.1,""chance"":0.5}]",,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.bang_tuyet_vu,Tuyết Vũ Già Thiên,khong_che,0.7,4,bang,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.hung_thiet_chuong,Thiết Bì Hộ Thể,thu,1.2,3,,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.ho_uy_ap,Hổ Khiếu Sơn Lâm,khong_che,0.8,4,,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.ho_phac_sat,Mãnh Hổ Phác Sát,cong,2,3,,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.hat_doc_cham,Độc Vĩ Châm,cong,1.5,2,moc,,"[{""kind"":""poison"",""turns"":2,""ratio"":0.2,""chance"":0.6}]",,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.hat_giap_tho,Sa Giáp Hộ Thân,thu,1,3,tho,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.vien_nem_da,Phi Thạch Kích,cong,1.4,1,tho,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.vien_bat_chuoc,Tâm Viên Ý Mã,khong_che,0.6,4,,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.xa_quan_siet,Bàn Xà Triền,khong_che,0.7,4,,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.chu_to_troi,Thiên Ti Phược,khong_che,0.5,4,,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.ung_bo_nhao,Ưng Kích Trường Không,cong,1.8,2,phong,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.giao_han_trieu,Hàn Triều Phúc Hải,cong,2.2,4,thuy,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.giao_long_ngam,Giao Long Ngâm,khong_che,0.7,5,,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.phu_dieu,Phù Diêu Cửu Vạn,cong,2.2,4,phong,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.hung_chan_dia,Hùng Chưởng Chấn Địa,cong,1.8,2,tho,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.hat_sa_bao,Hoàng Sa Phong Bạo,khong_che,0.6,4,tho,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.xa_doc_vu,Độc Vụ Phún Tức,cong,1.8,2,moc,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.ho_huyen_canh,Huyễn Cảnh Thiên Trùng,khong_che,0.8,5,,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.xa_huong_hoa_kim_than,Hương Hỏa Kim Thân,thu,1.2,3,,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.yeu_huyet_tai_sinh,Yêu Huyết Tái Sinh,hoi_phuc,1.5,5,,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.phe_linh_trao,Phệ Linh Trảo,cong,1.8,3,,,,,true,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.giac_dot,Giác Đột Xuyên Phong,cong,1.6,2,,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.te_xuyen_giap,Xuyên Giáp Đỉnh,cong,2.2,3,kim,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.van_quan_dap,Vạn Quân Tiễn Đạp,cong,1.4,3,tho,all,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.phong_anh_tap,Phong Ảnh Tập Sát,cong,1.3,1,phong,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.loi_van_trao,Lôi Văn Trảo,cong,1.8,2,loi,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.phong_vi_cham,Phong Vĩ Châm,cong,0.8,0,moc,,"[{""kind"":""poison"",""turns"":2,""ratio"":0.15,""chance"":0.5}]",,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.huyen_diep_phan,Huyễn Điệp Mê Phấn,khong_che,0.6,4,,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.bach_tuc_giao,Bách Túc Độc Giảo,cong,1.6,2,moc,,"[{""kind"":""poison"",""turns"":2,""ratio"":0.2,""chance"":0.6}]",,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.hoa_toan_phun,Hỏa Toan Phún,cong,1.4,2,hoa,,"[{""kind"":""burn"",""turns"":2,""ratio"":0.15,""chance"":0.5}]",,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.tram_uyen_giao,Trầm Uyên Giảo,khong_che,0.8,4,thuy,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.kinh_lang,Kình Lãng Phúc Không,cong,1.2,3,thuy,all,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.sa_don_tap,Sa Độn Đột Tập,cong,2,3,tho,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.cu_khau_thon,Cự Khẩu Thôn Phệ,khong_che,0.8,4,,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.hoa_vu_tien,Hỏa Vũ Tiễn,cong,1.3,1,hoa,,"[{""kind"":""burn"",""turns"":2,""ratio"":0.15,""chance"":0.4}]",,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.huyet_buc_am_ba,Huyết Bức Âm Ba,khong_che,0.6,4,,spread,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.kieu_minh,Kiêu Minh Nhiếp Hồn,khong_che,0.8,4,,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.linh_quang_ho_the,Linh Quang Hộ Thể,thu,1.2,3,,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.thien_lang_phe_nguyet,Thiên Lang Phệ Nguyệt,cong,2.2,4,phong,,"[{""kind"":""bleed"",""turns"":2,""ratio"":0.15,""chance"":0.5}]",,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.van_tuong_huyen_than,Vạn Tướng Huyễn Thân,khong_che,0.6,5,,all,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.long_tuc_phuc_hai,Long Tức Phúc Hải,cong,1.6,4,thuy,all,"[{""kind"":""chill"",""turns"":2,""ratio"":0.1,""chance"":0.5}]",,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.con_bang_trien_si,Côn Bằng Triển Sí,cong,1.5,3,phong,spread,"[{""kind"":""haste"",""turns"":1,""chance"":1}]",,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.ham_son_trong_chuong,Hám Sơn Trọng Chưởng,cong,2.2,4,,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.bach_ho_liet_sat,Bạch Hổ Liệt Sát,cong,2.2,4,kim,,"[{""kind"":""bleed"",""turns"":2,""ratio"":0.2,""chance"":0.5}]",,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.van_doc_phe_tam,Vạn Độc Phệ Tâm,cong,1.4,3,moc,spread,"[{""kind"":""poison"",""turns"":3,""ratio"":0.25,""chance"":0.7}]",,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.kim_cuong_phuc_ma,Kim Cương Phục Ma,cong,2,3,kim,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.cu_mang_thon_thien,Cự Mãng Thôn Thiên,cong,2.2,4,moc,,"[{""kind"":""poison"",""turns"":2,""ratio"":0.2,""chance"":0.5}]",,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.van_ti_la_vong,Vạn Ti La Võng,khong_che,0.6,5,,all,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.thiem_thon_nguyet,Kim Thiềm Thôn Nguyệt,cong,1.8,3,thuy,,"[{""kind"":""poison"",""turns"":2,""ratio"":0.15,""chance"":0.5}]",,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.hai_ca_me_hon,Hải Ca Mê Hồn,khong_che,0.7,4,thuy,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.boi_son_tran_hai,Bối Sơn Trấn Hải,cong,1.8,3,tho,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.don_dia_thau_tap,Độn Địa Thâu Tập,cong,1.3,1,tho,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.hac_minh_cuu_cao,Hạc Minh Cửu Cao,khong_che,0.6,4,phong,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.quan_nha_trac,Quần Nha Trác Mục,cong,0.8,0,phong,,"[{""kind"":""bleed"",""turns"":2,""ratio"":0.1,""chance"":0.4}]",,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.thiet_kiem_toa,Thiết Kiềm Tỏa,khong_che,0.6,4,,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.ly_anh_phac,Ly Ảnh Phác,cong,1.4,1,phong,,,,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.toai_giap_xi,Toái Giáp Xỉ,cong,0.8,0,tho,,"[{""kind"":""sunder"",""turns"":2,""ratio"":0.1,""chance"":0.4}]",,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.da_kieu_de,Dạ Kiêu Đề,cong,1.2,1,am,,"[{""kind"":""decay"",""turns"":2,""ratio"":0.2,""chance"":0.5}]",,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.huyen_duc_phe_hon,Huyền Dực Phệ Hồn,cong,1.6,2,am,,"[{""kind"":""decay"",""turns"":3,""ratio"":0.3,""chance"":0.6}]",,,,,,/content/enemies/yeu_thu/chieu.yaml
+chieu.huyen_am_chan,Huyền Âm Chấn,khong_che,0.8,5,am,,,,,,,,/content/enemies/yeu_thu/chieu.yaml

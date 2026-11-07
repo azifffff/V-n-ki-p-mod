@@ -1,0 +1,122 @@
+﻿id,ten,mo_ta,ti_le,khuon,dac_tinh,ti_le_xuat_than,_file
+the_chat.pham_the,Phàm thể,"Thân thể bình thường, kinh mạch không có gì đặc biệt.",80,". . f 4 e 4 5 . .
+. d 3 2 2 2 3 3 .
+5 3 2 1 1 1 2 3 5
+4 2 1 0 0 0 1 c 4
+4 2 1 0 D 0 1 2 4
+4 2 1 0 0 0 1 2 4
+5 3 2 1 b 1 2 3 5
+. 3 3 2 2 2 3 3 .
+. . 5 4 e 4 5 . .
+",,,/content/player/the_chat.yaml
+the_chat.bach_thao,Bách Thảo thể,"Huyết mạch quen mùi thảo mộc từ trong bụng mẹ. Kinh mạch như người thường, nhưng thuốc vào người thấm nhanh, đan dược, linh quả lâu nhạt hơn người khác; đan hồi trong trận mạnh thêm 50%, khí huyết dày hơn một chút.",4,". . f 4 e 4 5 . .
+. d 3 2 2 2 3 3 .
+5 3 2 1 1 1 2 3 5
+4 2 1 0 0 0 1 c 4
+4 2 1 0 D 0 1 2 4
+4 2 1 0 0 0 1 2 4
+5 3 2 1 b 1 2 3 5
+. 3 3 2 2 2 3 3 .
+. . 5 4 e 4 5 . .
+","{""duoc_khang"":0.3,""dan_tran"":0.5,""khi_huyet"":0.1,""khang_doc"":0.2}","{""hoc_do_dan_phong"":20,""con_thay_lang"":20}",/content/player/the_chat.yaml
+the_chat.thiet_cot,Thiết cốt,"Gân cốt rắn như sắt, kinh mạch rộng mà ít huyệt khiếu. Chịu đòn tốt, hợp thể tu.",8,". . f 5 4 4 4 5 5 . .
+. 3 3 3 2 2 2 3 3 3 .
+5 3 2 2 1 1 1 2 2 3 5
+4 2 1 1 0 0 0 1 1 c 4
+4 2 1 1 0 D 0 1 1 2 4
+4 2 1 1 0 0 0 1 1 2 4
+5 3 2 2 1 1 1 2 2 3 5
+. 3 3 3 2 2 2 3 3 3 .
+. . 5 5 4 e 4 5 5 . .
+","{""khi_huyet"":0.3,""ho_the"":0.05,""the_uy_luc"":0.15,""khang_hieu_ung"":0.1}","{""con_chau_tuan_bien"":60}",/content/player/the_chat.yaml
+the_chat.kiem_cot,Kiếm cốt,"Xương sống thẳng như kiếm, kinh mạch dài và hẹp. Kiếm trong tay như mọc ra từ thân.",4,". . f . .
+. 5 4 5 .
+5 4 e 4 5
+4 4 3 4 4
+4 3 d 3 4
+3 3 2 3 3
+3 2 c 2 3
+2 2 1 2 2
+2 1 b 1 2
+1 0 0 0 1
+1 0 D 0 1
+1 0 0 0 1
+. 1 1 1 .
+","{""kiem_uy_luc"":0.25,""kinh_lo_toi_da"":7}",,/content/player/the_chat.yaml
+the_chat.hoang_co,Hoang Cổ thánh thể,"Thể chất thượng cổ. Kinh mạch rộng như sông, sinh ra không một huyệt khiếu, thân thể nuốt linh khí nên tu luyện chậm; mỗi cảnh giới đạt Hoàn Mỹ, thân thể lại tôi thêm một tầng và mở ra một huyệt khiếu.",4,". . 5 5 4 4 4 5 5 . .
+. 3 3 3 2 2 2 3 3 3 .
+5 3 2 2 1 1 1 2 2 3 5
+5 3 2 2 1 1 1 2 2 3 5
+4 2 1 1 0 0 0 1 1 2 4
+4 2 1 1 0 D 0 1 1 2 4
+4 2 1 1 0 0 0 1 1 2 4
+5 3 2 2 1 1 1 2 2 3 5
+5 3 2 2 1 1 1 2 2 3 5
+. 3 3 3 2 2 2 3 3 3 .
+. . 5 5 4 4 4 5 5 . .
+","{""khi_huyet"":0.5,""hoan_my_khi_huyet"":0.05,""phan_phe"":0.5,""toc_do"":-0.15,""khang_hieu_ung"":0.1}",,/content/player/the_chat.yaml
+the_chat.cuu_am,Cửu Âm tuyệt mạch,"Âm khí tụ trong chín đường kinh mạch. Huyệt khiếu dày đặc, âm khí hóa chiêu băng càng sắc, tu luyện nhanh; nhưng chưa bước vào Luyện Khí thì khó sống quá ba mươi.",4,"5 4 4 e 4 4 5
+f d 2 b 2 c 5
+3 c 0 0 0 2 3
+4 1 0 D 0 1 e
+3 2 0 0 0 c 3
+4 c 2 b 2 3 4
+5 5 3 d 3 f 5
+","{""ep_bang"":0.3,""tho_pham_nhan"":30,""toc_do"":0.2,""uy_luc_he"":{""bang"":0.25},""khang_bang"":0.2}",,/content/player/the_chat.yaml
+the_chat.am_hon,Âm Hồn thể,"Hồn phách nặng hơn thân xác, sinh ra đã nghe được tiếng người chết. Huyệt khiếu nhiều, khí huyết mỏng; người luyện thi, dưỡng hồn nuôi thi khôi, quỷ hồn tốn ít ngự lực hơn.",2,". . . 5 f 5 . . .
+. . 4 4 e 4 4 . .
+. 5 3 2 2 2 3 d .
+5 3 2 1 1 1 2 3 5
+e 2 1 0 0 0 1 2 4
+4 c 1 0 D 0 1 c 4
+5 3 2 0 0 0 2 3 5
+. 4 b 1 1 1 2 4 .
+. . 3 2 . 2 3 . .
+. . . 5 . 5 . . .
+","{""khi_huyet"":-0.1}","{""con_thay_cung"":15}",/content/player/the_chat.yaml
+the_chat.huyen_vu,Huyền Vũ thể,"Thân như mai rùa, kinh mạch tròn kín, gần như không một huyệt khiếu. Chịu đòn giỏi, tà công khó phản phệ, nhưng tu luyện chậm.",2,". . . 5 4 4 4 5 . . .
+. . 5 3 3 3 3 3 5 . .
+. 4 3 2 2 2 2 2 3 4 .
+5 3 2 1 1 1 1 1 2 3 5
+4 3 2 1 0 0 0 1 2 c 4
+4 2 1 1 0 D 0 1 1 2 4
+4 3 2 1 0 0 0 1 2 3 4
+5 3 2 1 1 1 1 1 2 3 5
+. 4 3 2 2 2 2 2 3 4 .
+. . 5 3 3 3 3 3 5 . .
+. . . 5 4 e 4 5 . . .
+","{""khi_huyet"":0.4,""phan_phe"":0.5,""toc_do"":-0.15,""ho_the"":0.1,""ho_the_tran"":0.05,""khang_hieu_ung"":0.15}","{""nguoi_giu_dai"":15}",/content/player/the_chat.yaml
+the_chat.liet_duong,Liệt Dương thể,"Dương khí trong người cháy như mặt trời giữa trưa. Kinh mạch nhỏ mà tu luyện nhanh, có điều tà công vào người thì phản phệ dữ hơn.",2,". . . . . 5 . . . . .
+. . . . . f . . . . .
+. . . 4 3 3 3 4 . . .
+. . 3 2 1 1 1 2 3 . .
+. 4 2 1 0 0 0 1 2 4 .
+5 d 3 1 0 D 0 1 3 e 5
+. 4 2 1 0 0 0 1 2 4 .
+. . 3 2 1 b 1 2 3 . .
+. . . 4 3 3 3 4 . . .
+. . . . . c . . . . .
+. . . . . 5 . . . . .
+","{""toc_do"":0.2,""phan_phe"":1.5,""uy_luc_he"":{""hoa"":0.25},""khang_hoa"":0.2}","{""linh_quan_ai"":12}",/content/player/the_chat.yaml
+the_chat.van_doc,Vạn Độc thể,"Sinh ra đã ngậm độc khí trong máu, rắn rết cắn phải tự lăn ra chết. Độc qua tay càng thêm hiểm, độc ngấm vào kẻ khác lại nuôi thân mình; có điều thuốc thang vào người bị độc khí ăn mất một phần.",2,". . . 5 f 5 . . .
+. . 4 4 e 4 4 . .
+. . 4 3 3 3 4 . .
+. . . 3 d 3 . . .
+. . 3 2 2 2 3 . .
+. 3 2 1 1 1 2 3 .
+5 3 1 0 0 0 1 c 5
+4 2 1 0 D 0 1 2 4
+5 3 1 0 0 0 1 3 5
+. 4 2 b 1 1 2 4 .
+. . 5 3 2 3 5 . .
+","{""doc_uy_luc"":0.3,""doc_tang"":1,""doc_duong"":0.3,""khang_doc"":0.3,""dan_tran"":-0.3,""duoc_khang"":-0.1}",,/content/player/the_chat.yaml
+the_chat.cuu_u,Cửu U thể,"Thân sinh ra nơi âm khí chín tầng đất tụ lại, đèn trong phòng tự lụi khi ngươi bước vào. Ám khí trong kinh mạch hóa chiêu Ám càng hiểm, kẻ trúng mà muốn hồi sức thì sinh cơ chảy sang ngươi; nhưng lôi hỏa đánh vào thân này đau gấp bội.",2,". . 5 e 4 4 5 . .
+. 4 3 3 d 3 3 5 .
+5 3 2 1 1 1 c 3 4
+4 3 1 0 0 0 1 3 e
+4 d 1 0 D 0 1 2 4
+f 3 c 0 0 0 1 3 4
+5 3 2 1 b 1 2 3 5
+. 5 3 2 2 2 3 4 .
+. . 5 4 f 4 5 . .
+","{""ep_am"":0.3,""uy_luc_he"":{""am"":0.25},""doat_sinh"":0.5,""than_am"":true}",,/content/player/the_chat.yaml

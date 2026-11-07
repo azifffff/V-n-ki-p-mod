@@ -1,0 +1,37 @@
+﻿id,ten,mo_ta,diem,an,không nạp lại.,_file
+thanh_tuu.canh_gioi.luyen_khi,Bước lên tiên lộ,Lần đầu vào Luyện Khí.,5,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.canh_gioi.truc_co,Trúc cơ,Lần đầu trúc cơ.,10,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.canh_gioi.ket_dan,Chân nhân,Lần đầu kết Kim Đan.,20,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.canh_gioi.nguyen_anh,Lão tổ,Lần đầu kết Nguyên Anh.,40,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.canh_gioi.hoa_than,Đại năng,Lần đầu hóa thần.,80,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.pham_chat.2,Đạo cơ Hoàn Mỹ,Trúc cơ với đạo cơ Hoàn Mỹ.,10,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.pham_chat.3,Kim đan Nhất phẩm,Kết đan Hoàn Mỹ.,20,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.pham_chat.4,Dị anh,Nguyên Anh có dị tượng.,40,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.tong_mon.chan_truyen,Chân truyền,Thăng Chân truyền đệ tử một tông.,10,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.tong_mon.truong_lao,Trưởng lão,Thăng Trưởng lão một tông. Mở xuất thân Hậu bối tông môn.,20,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.dao_lu,Kết làm đạo lữ,Có đạo lữ.,5,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.ket_nghia,Kết nghĩa kim lan,Có huynh đệ kết nghĩa.,5,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.thien_kieu_bang,Đứng đầu Thiên Kiêu Bảng,Tên đứng đầu Thiên Kiêu Bảng.,30,true,,/content/meta/thanh_tuu.yaml
+thanh_tuu.tam_ma,Chém tâm ma,Thắng tâm ma lúc đột phá.,15,true,,/content/meta/thanh_tuu.yaml
+thanh_tuu.nuoc.ung,Trúc cơ ở Đại Ung,Trúc cơ trên đất Đại Ung.,5,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.nuoc.thinh,Trúc cơ ở Thịnh Quốc,Trúc cơ trên đất Thịnh Quốc.,5,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.nuoc.luong,Trúc cơ ở Lương Quốc,Trúc cơ trên đất Lương Quốc.,5,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.nuoc.minh,Trúc cơ ở Bắc Minh,Trúc cơ trên đất Bắc Minh.,5,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.nuoc.viem,Trúc cơ ở Viêm Quốc,Trúc cơ trên đất Viêm Quốc.,5,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.chet.het_tho,Thọ tận,Chết vì cạn thọ nguyên.,2,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.chet.tu_tran,Tử trận,Chết trong trận.,2,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.chet.dot_pha,Thân tử đạo tiêu,Chết khi đột phá.,2,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.chet.tu_vong,Bỏ mạng,Chết vì thương thế hay tai họa.,2,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.chet.tu_bo,Tự tán công,Tự bỏ con đường tu.,2,true,,/content/meta/thanh_tuu.yaml
+thanh_tuu.nghe.luyen_dan,Đan sư,Qua khảo hạch lên Đan sư. Mở khắc chân linh Đan tâm.,5,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.nghe.che_phu,Phù sư,Qua khảo hạch lên Phù sư. Mở khắc chân linh Phù tâm.,5,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.nghe.luyen_bao,Khí sư,Qua khảo hạch lên Khí sư. Mở khắc chân linh Khí tâm.,5,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.nghe.tran_phap,Trận sư,Qua khảo hạch lên Trận sư. Mở khắc chân linh Trận tâm.,5,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.nghe.tong_su,Tông sư một nghề,Lên bậc Tông của một nghề luyện chế.,20,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.bao_luc.du_bo,Đủ bộ Bảo lục,Bảo lục ghi đủ mọi vật phẩm Nghịch Thiên.,60,true,,/content/meta/thanh_tuu.yaml
+thanh_tuu.vo_nhai_uyen_4,Xuống vực,"Qua thủ quan đầu của Vô Nhai Uyên, tầng 4.",10,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.vo_nhai_uyen_16,Khắc tên Uyên Bia,"Qua tầng 16 Vô Nhai Uyên, tàn hồn Nguyên Anh cuối cùng nhường lối.",20,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.vo_nhai_uyen_32,Đáy chưa thấy,"Qua tầng 32 Vô Nhai Uyên. Tàn hồn Hóa Thần đã hết, đáy vẫn chưa thấy.",40,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.vo_nhai_uyen_40,Vô nhai,"Qua tầng 40 Vô Nhai Uyên, sâu trong Hư cảnh.",60,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.tuyet_menh.ket_dan,Độc Mệnh Chân Nhân,Kết Kim Đan khi chỉ có một mạng,0,,,/content/meta/thanh_tuu.yaml
+thanh_tuu.tuyet_menh.hoa_than,Độc Mệnh Đại Năng,Hóa Thần khi chỉ có một mạng,0,,,/content/meta/thanh_tuu.yaml

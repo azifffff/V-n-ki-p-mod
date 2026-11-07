@@ -1,0 +1,341 @@
+﻿id,ten,loai,pham_cap,canh_gioi,day,gia,mo_ta,tag,_file
+item.dp_quy_tuc_phu,Quy Tức Phù phương,don_phuong,3,1,dp.quy_tuc_phu,160,"Thẻ ngọc chép phù về trận đã biết cùng Thổ, dặn khép nét cuối.",,/content/items/luyen_che/che_phu.yaml
+item.dp_na_di_phu,Na Di Phù phương,don_phuong,2,0,dp.na_di_phu,50,Thẻ ngọc chép vòng phù dời thân trong tầm ba nghìn dặm.,,/content/items/luyen_che/che_phu.yaml
+item.dp_hoa_dan_phu,Hỏa Đạn Phù phương,don_phuong,1,0,dp.hoa_dan_phu,10,"Tờ giấy bản vẽ mẫu một vòng xoáy, bên cạnh ghi ba chữ ""chớ dừng bút"".",,/content/items/luyen_che/che_phu.yaml
+item.dp_bua_tru_ta,Bùa trừ tà phương,don_phuong,2,0,dp.bua_tru_ta,30,"Sổ mẫu bùa của ông từ, giấy ám khói hương. Trang đầu là bùa trừ tà, nét nào cũng tô đi tô lại.",,/content/items/luyen_che/che_phu.yaml
+item.dp_canh_kim_phu,Canh Kim Phù phương,don_phuong,2,0,dp.canh_kim_phu,40,"Thẻ trúc khắc mẫu phù kim, dặn nghiền răng sói thật mịn mới hòa vào mực.",,/content/items/luyen_che/che_phu.yaml
+item.dp_dan_loi_phu,Dẫn Lôi Phù phương,don_phuong,2,0,dp.dan_loi_phu,45,"Tờ phù mẫu của đạo sĩ đi đường, góc giấy cháy sém như từng bị sét liếm.",,/content/items/luyen_che/che_phu.yaml
+item.dp_dinh_than_phu,Định Thân Phù phương,don_phuong,2,0,dp.dinh_than_phu,45,"Mảnh lụa vẽ mẫu phù, mép có vết ố vàng của mủ cóc. Chép xong nhớ rửa tay.",,/content/items/luyen_che/che_phu.yaml
+item.dp_kim_cuong_phu,Kim Cương Phù phương,don_phuong,2,0,dp.kim_cuong_phu,40,"Mẫu phù hộ thân chép từ một bản kinh nhà chùa, chữ Phạn xen nét chu sa.",,/content/items/luyen_che/che_phu.yaml
+item.dp_than_hanh_phu,Thần Hành Phù phương,don_phuong,2,0,dp.than_hanh_phu,25,"Tờ mẫu nhàu nát, phu kiệu với tiêu sư truyền tay nhau chép lại.",,/content/items/luyen_che/che_phu.yaml
+item.dp_truyen_am_phu,Truyền Âm Phù phương,don_phuong,2,0,dp.truyen_am_phu,25,Bản vẽ cách gấp hạc giấy kèm nét phù dưới cánh. Nét sai một chỗ là hạc bay lạc.,,/content/items/luyen_che/che_phu.yaml
+item.dp_tam_lo_phu,Tầm Lộ Phù phương,don_phuong,2,0,dp.tam_lo_phu,25,"Mẫu phù của thương đoàn đi núi, mặt sau vẽ nguệch ngoạc một tấm bản đồ không rõ chỗ nào.",,/content/items/luyen_che/che_phu.yaml
+item.dp_thanh_phong_phu,Thanh Phong Phù phương,don_phuong,3,1,dp.thanh_phong_phu,130,"Ngọc giản ghi mẫu phù gió, dặn nét phải nhẹ như lông, nặng tay là gió không ra.",,/content/items/luyen_che/che_phu.yaml
+item.dp_thien_ti_phu,Thiên Ti Phù phương,don_phuong,3,1,dp.thien_ti_phu,150,"Ngọc giản vẽ một mạng nhện chín vòng, mỗi vòng là một nét phù.",,/content/items/luyen_che/che_phu.yaml
+item.dp_huyen_quy_phu,Huyền Quy Phù phương,don_phuong,3,1,dp.huyen_quy_phu,140,"Ngọc giản khắc vân mai rùa. Lời dặn của người chép, ""chậm thì sống, nhanh thì vỡ"".",,/content/items/luyen_che/che_phu.yaml
+item.dp_dia_don_phu,Địa Độn Phù phương,don_phuong,3,1,dp.dia_don_phu,160,"Ngọc giản đất sét nung, tán tu nào có được cũng giấu kỹ. Một tờ phù này đổi được một cái mạng.",,/content/items/luyen_che/che_phu.yaml
+item.dp_huyen_bang_phu,Huyền Băng Phù phương,don_phuong,4,2,dp.huyen_bang_phu,400,"Ngọc giản lạnh buốt tay, mặt khắc mẫu phù băng của người Bắc Minh.",,/content/items/luyen_che/che_phu.yaml
+item.dp_tu_tieu_loi_phu,Tử Tiêu Lôi Phù phương,don_phuong,4,2,dp.tu_tieu_loi_phu,480,"Ngọc giản có ấn sơn môn, mẫu phù trấn tà vốn chỉ truyền trong phù đường, không biết sao lại lọt ra ngoài.",,/content/items/luyen_che/che_phu.yaml
+item.dp_doc_thich_phu,Độc Thích Phù phương,don_phuong,2,0,dp.doc_thich_phu,40,"Thẻ trúc khắc mẫu phù gai góc, mép thẻ còn vết xanh của nọc rết.",,/content/items/luyen_che/che_phu.yaml
+item.dp_doan_truong_phu,Đoạn Trường Phù phương,don_phuong,4,2,dp.doan_truong_phu,330,"Thẻ đồng khắc một dây leo cong queo, cầm lâu thấy nôn nao trong bụng.",,/content/items/luyen_che/che_phu.yaml
+item.dp_chuong_vu_phu,Chướng Vụ Phù phương,don_phuong,5,3,dp.chuong_vu_phu,1600,"Ngọc giản vàng đục, nhìn vào thấy sương xanh vàng cuộn bên trong.",,/content/items/luyen_che/che_phu.yaml
+item.dp_hu_dang_phu,Hủ Đằng Phù phương,don_phuong,7,5,dp.hu_dang_phu,8300,"Ngọc giản đen có vân như rễ cây mục, để trên bàn gỗ một đêm thì mặt gỗ thâm lại.",,/content/items/luyen_che/che_phu.yaml
+item.dp_kim_thiem_phu,Kim Thiềm Phù phương,don_phuong,4,2,dp.kim_thiem_phu,550,"Lá sen khô cóc yêu giữ dưới bụng, gân lá chính là nét phù. Mép lá còn nhớt.",co,/content/items/luyen_che/che_phu.yaml
+item.dp_cuu_tieu_phong_phu,Cửu Tiêu Phong Phù phương,don_phuong,5,3,dp.cuu_tieu_phong_phu,2200,"Lông hạc dài, sống lông khắc chữ nhỏ như sợi tóc. Thổi nhẹ thì chữ sáng lên từng hàng.",co,/content/items/luyen_che/che_phu.yaml
+item.dp_pha_quan_phu,Phá Quân Phù phương,don_phuong,5,3,dp.pha_quan_phu,2100,"Thẻ bài đồng của một phù sư đồn biên Lương Quốc, mặt sau khắc phương phù. Bị sói tha về hang cùng chủ.",co,/content/items/luyen_che/che_phu.yaml
+item.dp_bat_dong_phu,Bất Động Phù phương,don_phuong,5,3,dp.bat_dong_phu,2000,"Tấm da gấu cũ, có ai đó vẽ phù lên rồi quên. Hùng tộc giữ như giữ lời thề của người xưa.",co,/content/items/luyen_che/che_phu.yaml
+item.dp_kim_lan_doc_phu,Kim Lân Độc Phù phương,don_phuong,6,4,dp.kim_lan_doc_phu,4000,"Ngọc giản xanh đen nằm trong bụng mãng xà, bọc một lớp nhớt chưa khô. Đọc xong tay tê tới khuỷu.",co,/content/items/luyen_che/che_phu.yaml
+item.dp_canh_kim_phu_nha,Canh Kim Phù phương (nanh lợn),don_phuong,2,0,dp.canh_kim_phu_nha,20,"Tờ phù mẫu vẽ trên giấy thô, góc dính bột nanh trắng.",,/content/items/luyen_che/che_phu.yaml
+item.dp_dinh_than_phu_diep,Định Thân Phù phương (điệp phấn),don_phuong,2,0,dp.dinh_than_phu_diep,20,"Tờ phù mẫu còn óng ánh phấn bướm, nhìn lâu thấy hoa mắt.",,/content/items/luyen_che/che_phu.yaml
+item.dp_na_di_phu_sa,Na Di Phù phương (sa linh),don_phuong,2,0,dp.na_di_phu_sa,20,"Túi vải nhỏ đựng một tờ phù mẫu, đáy túi còn mấy hạt cát vàng.",,/content/items/luyen_che/che_phu.yaml
+item.dp_dia_don_phu_vu,Địa Độn Phù phương (vụ tinh),don_phuong,3,1,dp.dia_don_phu_vu,50,"Thẻ trúc ẩm, cầm lên tay thấy mát như vừa qua sương sớm.",,/content/items/luyen_che/che_phu.yaml
+item.dp_huyen_bang_phu_chau,Huyền Băng Phù phương (băng phách châu),don_phuong,4,2,dp.huyen_bang_phu_chau,250,"Ngọc giản xanh lam, tóc mai người cầm lâu đọng sương.",,/content/items/luyen_che/che_phu.yaml
+item.dp_thuong_lang_phu,Thương Lãng Phù phương,don_phuong,4,2,dp.thuong_lang_phu,250,"Thẻ tre ngâm nước lâu năm, chữ khắc vẫn rõ.",,/content/items/luyen_che/che_phu.yaml
+item.dp_liet_diem_phu,Liệt Diễm Phù phương,don_phuong,4,2,dp.liet_diem_phu,250,"Tờ phù mẫu trên giấy dày, mép cháy sém.",,/content/items/luyen_che/che_phu.yaml
+item.dp_toan_phong_phu,Toàn Phong Phù phương,don_phuong,4,2,dp.toan_phong_phu,250,"Tờ phù mẫu chặn bằng đá, lơi tay là nó bay mất.",,/content/items/luyen_che/che_phu.yaml
+item.dp_thien_loi_phu,Thiên Lôi Phù phương,don_phuong,5,3,dp.thien_loi_phu,900,"Ngọc giản tím, sờ vào tê đầu ngón tay.",,/content/items/luyen_che/che_phu.yaml
+item.dp_toa_hon_phu,Tỏa Hồn Phù phương,don_phuong,3,1,dp.toa_hon_phu,80,"Tờ giấy vàng ngả tro, ai cầm lâu cũng thấy sau gáy lạnh.",,/content/items/luyen_che/che_phu.yaml
+item.dp_am_binh_phu,Âm Binh Phù phương,don_phuong,4,2,dp.am_binh_phu,270,"Thẻ đồng nhỏ khắc mẫu phù, mặt sau có chữ ""lệnh"" đã mòn.",,/content/items/luyen_che/che_phu.yaml
+item.dp_tam_bao_phu,Tầm Bảo Phù phương,don_phuong,3,1,dp.tam_bao_phu,100,"Tờ phù mẫu gấp làm tư, mở ra còn mùi chồn.",,/content/items/luyen_che/che_phu.yaml
+item.dp_tran_quy_phu,Trấn Quỷ Phù phương,don_phuong,5,4,dp.tran_quy_phu,2030,"Cuộn lụa đen của một tăng nhân trừ tà, chữ viết bằng mực xanh lét.",co|chi_khai_bao,/content/items/luyen_che/che_phu.yaml
+item.dp_phi_cham_phu,Phi Châm Phù phương,don_phuong,3,1,dp.phi_cham_phu,120,"Ngọc giản vẽ một tờ phù lấm tấm trăm chấm nhỏ, chấm nào cũng sáng như đầu kim.",,/content/items/luyen_che/che_phu.yaml
+item.dp_thanh_xa_phu,Thanh Xà Phù phương,don_phuong,3,1,dp.thanh_xa_phu,110,"Tờ phù mẫu gói trong da rắn lột, giấy ngả xanh như rêu.",,/content/items/luyen_che/che_phu.yaml
+item.dp_thanh_tuyen_phu,Thanh Tuyền Phù phương,don_phuong,3,1,dp.thanh_tuyen_phu,130,"Ngọc giản mát lạnh, áp lên trán nghe tiếng suối róc rách.",,/content/items/luyen_che/che_phu.yaml
+item.dp_cuong_huyet_phu,Cuồng Huyết Phù phương,don_phuong,3,1,dp.cuong_huyet_phu,100,"Mảnh lụa đỏ chép mẫu phù, mép có dấu tay máu của người chép.",,/content/items/luyen_che/che_phu.yaml
+item.dp_lien_chau_loi_phu,Liên Châu Lôi Phù phương,don_phuong,4,2,dp.lien_chau_loi_phu,360,"Ngọc giản tím, mặt khắc chuỗi hạt sấm nối nhau chín vòng.",,/content/items/luyen_che/che_phu.yaml
+item.dp_toai_giap_phu,Toái Giáp Phù phương,don_phuong,4,2,dp.toai_giap_phu,320,"Thẻ đồng sứt mẻ, mẫu phù khắc sâu như vết đục.",,/content/items/luyen_che/che_phu.yaml
+item.dp_nham_bich_phu,Nham Bích Phù phương,don_phuong,4,2,dp.nham_bich_phu,330,"Phiến đá mỏng khắc mẫu phù theo vân, nặng như nửa viên gạch.",,/content/items/luyen_che/che_phu.yaml
+item.dp_sinh_co_phu,Sinh Cơ Phù phương,don_phuong,4,2,dp.sinh_co_phu,390,"Thẻ gỗ cổ mộc chép mẫu phù, để chỗ ẩm thì đâm chồi.",,/content/items/luyen_che/che_phu.yaml
+item.dp_thuy_don_phu,Thủy Độn Phù phương,don_phuong,4,2,dp.thuy_don_phu,320,"Ngọc giản ngâm trong ống trúc đầy nước, rút ra vẫn khô.",,/content/items/luyen_che/che_phu.yaml
+item.dp_viem_vu_phu,Viêm Vũ Phù phương,don_phuong,5,3,dp.viem_vu_phu,1600,"Ngọc giản đỏ ấm, nhìn lâu thấy lửa lấm tấm rơi bên trong.",,/content/items/luyen_che/che_phu.yaml
+item.dp_cuong_phong_phu,Cuồng Phong Phù phương,don_phuong,5,3,dp.cuong_phong_phu,1750,"Ngọc giản buộc dây, thả tay là nó tự xoay trên bàn.",,/content/items/luyen_che/che_phu.yaml
+item.dp_thien_nhan_phu,Thiên Nhận Phù phương,don_phuong,5,3,dp.thien_nhan_phu,1500,"Ngọc giản tìm thấy trong mộ kiếm khách, cầm lâu rướm máu đầu ngón.",,/content/items/luyen_che/che_phu.yaml
+item.dp_khon_long_phu,Khốn Long Phù phương,don_phuong,5,3,dp.khon_long_phu,1600,"Phiến đá xám khắc vòng xích chín khúc, đặt xuống là dính chặt mặt bàn.",,/content/items/luyen_che/che_phu.yaml
+item.dp_thanh_lien_phu,Thanh Liên Phù phương,don_phuong,5,3,dp.thanh_lien_phu,1700,"Ngọc giản hình cánh sen, đọc xong hơi thở dịu lại.",,/content/items/luyen_che/che_phu.yaml
+item.dp_loi_no_phu,Lôi Nộ Phù phương,don_phuong,5,3,dp.loi_no_phu,1450,"Ngọc giản sém đen một góc, chạm vào tóc dựng ngược.",,/content/items/luyen_che/che_phu.yaml
+item.dp_luu_tinh_phu,Lưu Tinh Phù phương,don_phuong,6,4,dp.luu_tinh_phu,3200,"Mảnh thiên thạch mài phẳng, mẫu phù khắc như vệt sao băng.",,/content/items/luyen_che/che_phu.yaml
+item.dp_tuyet_vuc_phu,Tuyết Vực Phù phương,don_phuong,6,4,dp.tuyet_vuc_phu,3400,Ngọc giản phủ một lớp sương không bao giờ tan.,,/content/items/luyen_che/che_phu.yaml
+item.dp_tam_muoi_hoa_phu,Tam Muội Hỏa Phù phương,don_phuong,6,4,dp.tam_muoi_hoa_phu,3100,"Ngọc giản đỏ rực, phải bọc vải mới cầm được.",,/content/items/luyen_che/che_phu.yaml
+item.dp_toa_tien_phu,Tỏa Tiên Phù phương,don_phuong,6,4,dp.toa_tien_phu,3300,"Thẻ đồng chuông cổ, lắc nghe leng keng như có xích trong lòng.",,/content/items/luyen_che/che_phu.yaml
+item.dp_huyen_vu_phu,Huyền Vũ Phù phương,don_phuong,6,4,dp.huyen_vu_phu,3100,"Mảnh giáp đen khắc rùa rắn quấn nhau, phù sư Bắc Minh giữ trong miếu.",,/content/items/luyen_che/che_phu.yaml
+item.dp_hoan_sinh_phu,Hoàn Sinh Phù phương,don_phuong,6,4,dp.hoan_sinh_phu,3400,"Ngọc giản xanh non, đặt lên cỏ úa thì cỏ tươi lại.",,/content/items/luyen_che/che_phu.yaml
+item.dp_thai_hu_don_phu,Thái Hư Độn Phù phương,don_phuong,6,4,dp.thai_hu_don_phu,3000,"Ngọc giản mỏng như cánh ve, phải đeo vào cổ kẻo gió thổi mất.",,/content/items/luyen_che/che_phu.yaml
+item.dp_tram_than_phu,Trảm Thần Phù phương,don_phuong,7,5,dp.tram_than_phu,8300,"Ngọc giản trắng chỉ khắc một đường thẳng, nhìn lâu mắt cay như bị kiếm chỉ vào.",,/content/items/luyen_che/che_phu.yaml
+item.dp_cuu_thien_loi_phu,Cửu Thiên Lôi Phù phương,don_phuong,7,5,dp.cuu_thien_loi_phu,8500,"Ngọc giản tím thẫm, đêm giông tự sáng chín vệt.",,/content/items/luyen_che/che_phu.yaml
+item.dp_diem_hai_phu,Diệm Hải Phù phương,don_phuong,7,5,dp.diem_hai_phu,8800,"Ngọc giản nóng rẫy trong hộp hàn ngọc, mở nắp là bốc khói.",,/content/items/luyen_che/che_phu.yaml
+item.dp_thuy_lao_phu,Thủy Lao Phù phương,don_phuong,7,5,dp.thuy_lao_phu,8600,"Giọt nước ngưng thành ngọc, mẫu phù chìm trong lòng giọt.",,/content/items/luyen_che/che_phu.yaml
+item.dp_thien_cuong_phu,Thiên Cương Phù phương,don_phuong,7,5,dp.thien_cuong_phu,8400,"Tấm ngà khắc ba mươi sáu điểm sao, ấn sơn môn một đại tông đã mài mờ.",,/content/items/luyen_che/che_phu.yaml
+item.dp_tao_hoa_phu,Tạo Hóa Phù phương,don_phuong,7,5,dp.tao_hoa_phu,8800,"Ngọc giản xanh như lá non, để trong túi lâu ngày tự mọc rễ tơ.",,/content/items/luyen_che/che_phu.yaml
+item.dp_u_hon_phu,U Hồn Phù phương,don_phuong,2,0,dp.u_hon_phu,40,"Tờ giấy hình nhân cũ chép mẫu phù, mép giấy còn vết tro hương.",,/content/items/luyen_che/che_phu.yaml
+item.dp_thuc_cot_phu,Thực Cốt Phù phương,don_phuong,4,2,dp.thuc_cot_phu,330,"Thẻ xương khắc mẫu phù, chỗ nét khắc sâu đã ngả màu đen.",,/content/items/luyen_che/che_phu.yaml
+item.dp_doan_sinh_phu,Đoạn Sinh Phù phương,don_phuong,6,4,dp.doan_sinh_phu,3100,"Ngọc giản đen như mực, cầm lâu thấy tay mình tái đi.",,/content/items/luyen_che/che_phu.yaml
+item.khoi_loi_do,Khôi Lỗi Đồ,don_phuong,3,2,dp.huyen_thiet_ho_uyen,160,"Cuộn giấy da vẽ người gỗ tháo rời từng khớp, chú thích chi chít bằng chữ nhỏ. Mép cuộn còn vết dầu tay của người vẽ.",co|chi_khai_bao,/content/items/luyen_che/khoi_loi.yaml
+item.thien_co_khoi_pho,Thiên Cơ Khôi Phổ,don_phuong,5,4,dp.oanh_thien_loi_chuy,1500,"Sách khôi lỗi bìa đồng, ghi cách đúc người đồng và nối chín vòng lõi. Trang cuối bị xé, chỉ còn chữ ""Thi"".",co|chi_khai_bao,/content/items/luyen_che/khoi_loi.yaml
+item.dp_thiet_kiem,Thiết Kiếm đồ phổ,don_phuong,1,0,dp.thiet_kiem,8,Tấm ván gỗ khắc hình thanh kiếm và mấy dòng dặn cách quai búa. Đọc xong là vào nghề luyện bảo.,,/content/items/luyen_che/luyen_bao.yaml
+item.dp_thanh_phong_kiem,Thanh Phong Kiếm đồ phổ,don_phuong,2,0,dp.thanh_phong_kiem,35,"Giấy dầu vẽ thanh kiếm mảnh, ghi số lần nung và màu lửa từng lần.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_han_thiet_dao,Hàn Thiết Đao đồ phổ,don_phuong,2,0,dp.han_thiet_dao,35,"Bản vẽ đao chép trên da thuộc, góc còn dính vết nước tuyết khô.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_lang_nha_chuy,Lang Nha Chủy đồ phổ,don_phuong,2,0,dp.lang_nha_chuy,40,"Thẻ tre buộc dây đỏ của thợ rèn quan ải, đóng dấu một đồn biên Lương Quốc.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_yeu_bi_giap,Yêu Bì Giáp đồ phổ,don_phuong,2,0,dp.yeu_bi_giap,30,"Tờ giấy gai vẽ cách cắt da và khâu mép, chữ nghệch ngoạc của thợ thuộc da.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_chu_ty_vong,Chu Ty Võng đồ phổ,don_phuong,2,0,dp.chu_ty_vong,45,"Mảnh lụa vẽ cách đan lưới theo hình mạng nhện, mỗi nút có ghi số.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_huyen_quy_thuan,Huyền Quy Thuẫn đồ phổ,don_phuong,3,1,dp.huyen_quy_thuan,120,"Ngọc giản vẽ trận văn khắc trên mai rùa, kèm cách đọc vân nứt sẵn có.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_thanh_suong_kiem,Thanh Sương Kiếm đồ phổ,don_phuong,3,1,dp.thanh_suong_kiem,150,Ngọc giản chép lại cách gấp thép chín lần của kiếm Thanh Vân. Người Thanh Vân mà thấy thì không vui.,,/content/items/luyen_che/luyen_bao.yaml
+item.dp_ho_vi_phat,Hồ Vĩ Phất đồ phổ,don_phuong,3,1,dp.ho_vi_phat,140,"Ngọc giản thơm mùi trầm, cầm lâu thấy lâng lâng.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_giao_can_cung,Giao Cân Cung đồ phổ,don_phuong,3,1,dp.giao_can_cung,160,"Ngọc giản lạnh tay, vẽ cách căng gân giao khi lò còn nóng.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_bach_hac_vu_y,Bạch Hạc Vũ Y đồ phổ,don_phuong,3,1,dp.bach_hac_vu_y,140,"Ngọc giản trắng, kẹp trong đó một chiếc lông hạc đã ngả vàng.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_tuyet_bang_kiem,Tuyết Bằng Kiếm đồ phổ,don_phuong,3,1,dp.tuyet_bang_kiem,180,"Ngọc giản phủ một lớp sương mỏng không bao giờ khô, vẽ thanh kiếm có cánh.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_ho_cot_dao,Hổ Cốt Đao đồ phổ,don_phuong,3,1,dp.ho_cot_dao,160,"Ngọc giản khắc vằn hổ, chép cách lồng xương vào sống đao.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_tu_kim_phi_kiem,Tử Kim Phi Kiếm đồ phổ,don_phuong,4,2,dp.tu_kim_phi_kiem,650,"Ngọc giản màu tím, ghi cách huyết luyện tử kim. Kiếm tu Trúc Cơ trả giá cao cho một bản chép.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_giao_lan_giap,Giao Lân Giáp đồ phổ,don_phuong,4,2,dp.giao_lan_giap,600,"Ngọc giản xanh thẫm vẽ từng lớp vảy chồng nhau, lớp nào nung mấy ngày ghi rõ.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_thuong_lan_kiem,Thương Lan Kiếm cổ phổ,don_phuong,4,2,dp.thuong_lan_kiem,800,"Tấm da dê ngả màu, bản vẽ của một lò rèn thời còn Trung Châu. Mép da có vết muối biển khô.",co,/content/items/luyen_che/luyen_bao.yaml
+item.dp_van_yeu_phien,Vạn Yêu Phiên cổ phổ,don_phuong,5,3,dp.van_yeu_phien,3600,Cuộn lụa đen chép từ hầm đá một tông đã tan. Mở ra nghe như có tiếng thú gầm rất xa.,co,/content/items/luyen_che/luyen_bao.yaml
+item.dp_phuoc_tien_tac,Phược Tiên Tác đồ phổ,don_phuong,4,2,dp.phuoc_tien_tac,650,"Tấm lụa trắng dính trong ổ nhện, chép cách bện tơ chín sợi. Nét chữ người viết run run, như đang bị treo ngược.",co,/content/items/luyen_che/luyen_bao.yaml
+item.dp_pha_giap_toan,Phá Giáp Toản đồ phổ,don_phuong,4,2,dp.pha_giap_toan,600,"Thẻ đồng chuột yêu tha từ một mộ cổ về hang, mép bị gặm nham nhở. Mặt thẻ khắc hình mũi khoan và cách khảm răng.",co,/content/items/luyen_che/luyen_bao.yaml
+item.dp_giao_le_chau_lien,Giao Lệ Châu Liên đồ phổ,don_phuong,4,2,dp.giao_le_chau_lien,650,"Vỏ ốc lớn, áp vào tai nghe giọng người cá đọc cách xâu chuỗi ngọc lệ.",co,/content/items/luyen_che/luyen_bao.yaml
+item.dp_thong_ty_kim_con,Thông Tý Kim Côn đồ phổ,don_phuong,5,3,dp.thong_ty_kim_con,3000,"Vượn già chép lại bản vẽ của thợ rèn trên vách đá, nét bắt chước vụng mà đủ. Có cả chữ ký người thợ, chép ngược.",co,/content/items/luyen_che/luyen_bao.yaml
+item.dp_huyen_vu_thuan,Huyền Vũ Thuẫn đồ phổ,don_phuong,5,3,dp.huyen_vu_thuan,2900,"Mảnh mai rùa khắc chi chít chữ cổ thời Trung Châu, đọc theo vân nứt mới ra câu.",co,/content/items/luyen_che/luyen_bao.yaml
+item.dp_liet_ho_dao,Liệt Hổ Đao đồ phổ,don_phuong,6,4,dp.liet_ho_dao,5500,"Tấm da hổ thuộc, mặt trong vẽ thanh đao bằng máu khô. Hổ tộc treo nó trong hang như chiến lợi phẩm của kẻ rèn đã chết.",co,/content/items/luyen_che/luyen_bao.yaml
+item.dp_hoa_long_truong,Hóa Long Trượng cổ phổ,don_phuong,7,5,dp.hoa_long_truong,12000,"Tấm vảy giao lớn bằng mặt bàn, chữ khắc mọc theo vân vảy. Ngâm trong nước thì chữ phát sáng.",co,/content/items/luyen_che/luyen_bao.yaml
+item.dp_hat_vi_tien,Hạt Vĩ Tiên đồ phổ,don_phuong,7,5,dp.hat_vi_tien,11000,"Thẻ ngọc vàng đục lấy từ phế tích dưới cát, mặt ngọc lốm đốm vết độc ăn.",co,/content/items/luyen_che/luyen_bao.yaml
+item.dp_thien_bang_cung,Thiên Bằng Cung đồ phổ,don_phuong,7,5,dp.thien_bang_cung,10000,"Ngọc giản băng của Tuyết Bằng tộc, khắc cây cung của một bằng vương chết trận Đoạn Thiên. Cầm lâu buốt tới khuỷu tay.",co,/content/items/luyen_che/luyen_bao.yaml
+item.dp_cuu_vi_huyen_dang,Cửu Vĩ Huyễn Đăng đồ phổ,don_phuong,7,5,dp.cuu_vi_huyen_dang,10500,"Quạt lụa hồng, mở ra thấy bản vẽ cây đèn chín đuôi. Gấp lại thì quạt thơm như người vừa cầm.",co,/content/items/luyen_che/luyen_bao.yaml
+item.dp_dan_lo_dia,Địa Hỏa đan lô đồ phổ,don_phuong,4,2,dp.dan_lo_dia,600,"Ngọc giản vẽ mặt cắt một cái lò, rãnh dẫn lửa dưới đáy tô son đỏ. Góc giản khắc dấu một hiệu lò rèn ở kinh đô.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_phu_but_dia,Tử Ngọc Phù Bút đồ phổ,don_phuong,4,2,dp.phu_but_dia,600,"Thẻ trúc dài, ghi cách khoét cán ngọc và buộc ngòi. Mặt sau có dòng chữ nhỏ dặn ngòi phải là râu hổ yêu.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_dan_lo_thien,Cửu Long đan lô đồ phổ,don_phuong,5,3,dp.dan_lo_thien,2400,"Cuộn lụa vàng có ấn khí phòng sơn môn, vẽ chín con rồng quấn lò, con nào ngậm lửa ở đâu ghi rõ từng chỗ.",tong_mon,/content/items/luyen_che/luyen_bao.yaml
+item.dp_phu_but_thien,Bồ Đề Phù Bút đồ phổ,don_phuong,5,3,dp.phu_but_thien,2400,"Ngọc giản có ấn khí phòng sơn môn, chép cách dùng xương hạc tiên làm cán. Lời dặn cuối giản viết đậm hơn cả.",tong_mon,/content/items/luyen_che/luyen_bao.yaml
+item.dp_dan_lo_tien,Thái Thượng đan lô cổ phổ,don_phuong,6,4,dp.dan_lo_tien,7000,"Bản vẽ khắc trên tấm đồng xanh, nét khắc thời Ngũ Tổ. Lò trong hình không có cửa lửa.",co,/content/items/luyen_che/luyen_bao.yaml
+item.dp_phu_but_tien,Lôi Mộc Phù Bút cổ phổ,don_phuong,6,4,dp.phu_but_tien,7000,"Mảnh gỗ cháy sém khắc chữ, sờ vào tê đầu ngón tay. Chép cách lấy gỗ bị sét đánh làm cán bút.",co,/content/items/luyen_che/luyen_bao.yaml
+item.dp_khi_lo_pham,Thạch đỉnh đồ phổ,don_phuong,1,0,dp.khi_lo_pham,8,"Tờ giấy bản vẽ cái đỉnh đá có đai sắt, thợ đá nào cũng đọc được.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_khi_lo_hoang,Thiết đỉnh đồ phổ,don_phuong,2,0,dp.khi_lo_hoang,40,"Thẻ gỗ ghi tỉ lệ pha gang với hàn thiết, mép thẻ cháy xém vì treo cạnh lò.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_khi_lo_huyen,Xích Diễm đỉnh đồ phổ,don_phuong,3,1,dp.khi_lo_huyen,140,"Ngọc giản đỏ vẽ trận dẫn hỏa khắc quanh bụng đỉnh, nét nào nối với nét nào ghi số rõ ràng.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_khi_lo_dia,Địa Mạch đỉnh đồ phổ,don_phuong,4,2,dp.khi_lo_dia,600,"Cuộn da vẽ một bức địa mạch đồ thu nhỏ, bên lề chép cách khắc nó lên thân đỉnh.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_khi_lo_thien,Cửu Diệu đỉnh đồ phổ,don_phuong,5,3,dp.khi_lo_thien,2400,"Ngọc giản có ấn khí phòng sơn môn, vẽ chín vì sao quanh bụng đỉnh, sao nào khảm trước ghi rõ.",tong_mon,/content/items/luyen_che/luyen_bao.yaml
+item.dp_khi_lo_tien,Thái Sơ đỉnh cổ phổ,don_phuong,6,4,dp.khi_lo_tien,7000,"Bản vẽ khắc trên tấm đồng xanh cùng bộ với cổ phổ đan lô, nét khắc thời Ngũ Tổ. Đỉnh trong hình không có chỗ đặt củi.",co,/content/items/luyen_che/luyen_bao.yaml
+item.dp_dan_lo_dat,Đan lô đất nung đồ phổ,don_phuong,1,0,dp.dan_lo_dat,8,"Tờ giấy dầu của thợ gốm, vẽ cái lò đất có đai sắt quanh miệng cho khỏi nứt.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_dan_lo_dong,Đồng đan lô đồ phổ,don_phuong,2,0,dp.dan_lo_dong,40,"Thẻ trúc vẽ lò ba chân, ghi chỗ khắc vân mây để khói đan thoát đều.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_dan_lo_huyen,Tử Văn đan lô đồ phổ,don_phuong,3,1,dp.dan_lo_huyen,140,"Ngọc giản tím chép trận văn giữ nhiệt trên thành lò, kèm lời dặn khắc lúc đồng còn ấm.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_phu_but_pham,Trúc Hào Bút đồ phổ,don_phuong,1,0,dp.phu_but_pham,8,Mảnh giấy ông từ chép cách bịt đầu cán trúc bằng sắt cho ngòi khỏi tuột.,,/content/items/luyen_che/luyen_bao.yaml
+item.dp_phu_but_hoang,Lang Hào Bút đồ phổ,don_phuong,2,0,dp.phu_but_hoang,40,"Thẻ gỗ ghi cách chọn râu yêu thú làm ngòi, sợi nào cứng giữ, sợi nào mềm bỏ.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_phu_but_huyen,Hạc Vũ Phù Bút đồ phổ,don_phuong,3,1,dp.phu_but_huyen,140,"Ngọc giản xanh vẽ cách kết lông cánh hạc thành ngòi, xương hạc làm cán.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_tran_but_pham,Thiết Khắc Bút đồ phổ,don_phuong,1,0,dp.tran_but_pham,8,"Mảnh giấy thợ rèn vẽ cây dùi sắt, ghi chỗ quấn dây cho khỏi trơn tay.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_tran_but_hoang,Hàn Thiết Trận Bút đồ phổ,don_phuong,2,0,dp.tran_but_hoang,40,"Thẻ gỗ ghi cách tôi mũi bút hàn thiết, nước tôi phải lấy từ giếng sâu.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_tran_but_huyen,Thanh Ngọc Trận Bút đồ phổ,don_phuong,3,1,dp.tran_but_huyen,140,Ngọc giản xanh vẽ cách bọc mũi đồng vào cán ngọc.,,/content/items/luyen_che/luyen_bao.yaml
+item.dp_tran_but_dia,Tử Kim Trận Bút đồ phổ,don_phuong,4,2,dp.tran_but_dia,600,"Thẻ trúc dài ghi cách đúc tử kim liền khối, mặt sau dặn mũi bút phải mài ba ngày.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_tran_but_thien,Thất Tinh Trận Bút đồ phổ,don_phuong,5,3,dp.tran_but_thien,2400,"Ngọc giản có ấn khí phòng sơn môn, vẽ bảy điểm sao trên thân bút, sao nào khảm trước ghi rõ.",tong_mon,/content/items/luyen_che/luyen_bao.yaml
+item.dp_tran_but_tien,Huyền Cơ Trận Bút đồ phổ,don_phuong,6,4,dp.tran_but_tien,7000,"Bản vẽ khắc trên tấm đồng xanh cùng bộ với cổ phổ lò đỉnh, nét khắc thời Ngũ Tổ. Bút trong hình không có mũi.",co,/content/items/luyen_che/luyen_bao.yaml
+item.dp_pha_giap_toan_giac,Phá Giáp Toản đồ phổ (kim giác),don_phuong,4,2,dp.pha_giap_toan_giac,450,"Bản vẽ trên da trâu, mũi khoan vẽ to bằng thật.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_linh_lung_thap_nha,Linh Lung Trấn Nhạc Tháp đồ phổ (cự tượng nha),don_phuong,5,4,dp.linh_lung_thap_nha,3690,"Bản vẽ tháp bảy tầng trên tấm ngà mỏng, nét khắc nhỏ như sợi tóc.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_linh_lung_thap_quy,Linh Lung Trấn Nhạc Tháp đồ phổ (bối sơn quy giáp),don_phuong,5,4,dp.linh_lung_thap_quy,3690,"Tấm đá mỏng khắc tháp ngồi trên lưng rùa, rêu còn bám kẽ chữ.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_than_hanh_ngoa_bao,Thần Hành Ngoa đồ phổ (da báo),don_phuong,2,1,dp.than_hanh_ngoa_bao,50,"Mẫu giày vẽ trên giấy dầu, ghi chỗ khâu từng đường.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_phu_but_thien_bao,Bồ Đề Phù Bút đồ phổ (lôi văn báo bì),don_phuong,5,3,dp.phu_but_thien_bao,1440,"Ngọc giản tím, kẹp trong đó một sợi lông vằn.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_van_doc_phien,Vạn Độc Phiên đồ phổ,don_phuong,5,3,dp.van_doc_phien,1440,"Cuộn vải đen thêu trăm loài độc trùng, mép vải đã mục.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_quy_giap_thuan_ngac,Quy Giáp Thuẫn đồ phổ (vảy cá sấu),don_phuong,2,0,dp.quy_giap_thuan_ngac,30,"Bản vẽ thuẫn trên giấy thô, ghi chỗ khoan lỗ quai.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_khi_lo_dia_du,Địa Mạch đỉnh đồ phổ (kình du),don_phuong,4,2,dp.khi_lo_dia_du,520,"Ngọc giản thấm dầu, cầm trơn tay, vẽ mặt cắt một cái đỉnh.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_huyen_vu_thuan_ngac,Huyền Vũ Thuẫn đồ phổ (huyền ngạc giáp),don_phuong,5,3,dp.huyen_vu_thuan_ngac,1530,"Bản vẽ trên lụa đen, nét vẽ bằng mực bạc.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_phu_but_hoang_tho,Phù bút đồ phổ (lông thỏ ngọc),don_phuong,2,0,dp.phu_but_hoang_tho,50,"Thẻ gỗ ghi cách chọn lông thỏ, sợi nào tự sáng thì giữ.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_bich_ba_linh_tan,Bích Ba Linh Tán đồ phổ,don_phuong,4,2,dp.bich_ba_linh_tan,380,"Tờ lụa xanh vẽ chiếc ô, chóp ô dán một mảnh vảy cá.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_luu_van_chu,Lưu Vân Chu đồ phổ,don_phuong,4,2,dp.luu_van_chu,360,"Bản vẽ thuyền bay trên lụa, mũi thuyền vẽ một sợi lông xanh.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_tu_kim_phi_kiem_nha,Tử Kim Phi Kiếm đồ phổ (thực thiết nha),don_phuong,4,2,dp.tu_kim_phi_kiem_nha,410,"Bản vẽ kiếm trên da, mép da có vết răng gặm.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_moc_dang_tac,Mộc Đằng Tác đồ phổ,don_phuong,2,0,dp.moc_dang_tac,20,"Thẻ trúc ghi cách bện ba sợi, kèm một khúc dây mẫu.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_bich_lan_doc_cham,Bích Lân Độc Châm đồ phổ,don_phuong,3,1,dp.bich_lan_doc_cham,100,"Thẻ trúc xanh, chữ viết nhỏ, cuối thẻ dặn đừng liếm ngón tay.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_nhiep_hon_linh,Nhiếp Hồn Linh đồ phổ,don_phuong,4,2,dp.nhiep_hon_linh,410,"Bản vẽ chuông nhỏ trên giấy vàng, nét mực xám như tro.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_thanh_moc_thuan,Thanh Mộc Thuẫn đồ phổ,don_phuong,4,2,dp.thanh_moc_thuan,430,"Thẻ gỗ còn vân xoáy, để chỗ ẩm thì mọc rễ tơ.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_phu_tang_than_moc,Phù Tang Thần Mộc đồ phổ,don_phuong,5,3,dp.phu_tang_than_moc,1350,"Lá ngô đồng ép khô, gân lá khắc chữ.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_hau_tho_thuan_tuy,Hậu Thổ Thuẫn đồ phổ (thạch tủy),don_phuong,2,0,dp.hau_tho_thuan_tuy,20,"Mảnh gốm vẽ khiên đá, gõ vào kêu như sắt.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_ban_son_an,Bàn Sơn Ấn đồ phổ,don_phuong,5,3,dp.ban_son_an,1350,"Tấm đá xám khắc mẫu ấn, nặng hơn đá thường gấp mấy lần.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_dan_lo_huyen_dong,Tử Văn đan lô đồ phổ (cổ đồng tinh),don_phuong,3,1,dp.dan_lo_huyen_dong,190,"Ngọc giản tím, khắc lò ba chân, chân lò tô màu đồng xanh.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_thua_anh_kiem,Thừa Ảnh Kiếm đồ phổ,don_phuong,5,3,dp.thua_anh_kiem,1440,"Bản vẽ kiếm trên lụa, chỗ hai mảnh nối nhau tô đỏ.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_hoi_am_thuan,Hồi Âm Thuẫn đồ phổ,don_phuong,5,3,dp.hoi_am_thuan,1620,"Ngọc giản vàng nhạt, búng vào nghe ngân.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_hau_tho_kim_cang_an,Hậu Thổ Kim Cang Ấn đồ phổ,don_phuong,4,2,dp.hau_tho_kim_cang_an,430,"Túi da đựng bản vẽ ấn, lắc nghe tiếng cát.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_dia_sat_dinh,Địa Sát Đinh đồ phổ,don_phuong,3,1,dp.dia_sat_dinh,110,"Thẻ gỗ đào của đạo sĩ trừ tà, vẽ bảy chiếc đinh.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_huyet_anh_dao,Huyết Ảnh Đao đồ phổ,don_phuong,4,2,dp.huyet_anh_dao,430,"Bản vẽ đoản đao trên giấy đỏ, mép giấy ố vàng.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_khu_thi_linh,Khu Thi Linh đồ phổ,don_phuong,5,3,dp.khu_thi_linh,900,"Sách mỏng bìa đen, trang nào cũng có vết tay dính dầu.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_thien_dien_phap_y,Thiên Diện Pháp Y đồ phổ,don_phuong,5,3,dp.thien_dien_phap_y,1440,"Cuộn da mỏng, mở ra thấy nửa khuôn mặt vẽ rồi bỏ dở.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_ho_tam_noi_giap,Hộ Tâm Nội Giáp đồ phổ,don_phuong,5,3,dp.ho_tam_noi_giap,1760,"Bản vẽ giáp lót áo, ghi số hiệu đội khôi lỗi cổ ở góc.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_ly_hoa_hoan_dao,Ly Hỏa Hoàn Đao đồ phổ,don_phuong,4,2,dp.ly_hoa_hoan_dao,380,"Bản vẽ đao trên giấy da, lưng đao vẽ chín vòng đánh số.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_phi_cuong_trao,Phi Cương Trảo đồ phổ,don_phuong,5,4,dp.phi_cuong_trao,4000,"Tấm da người khô vẽ bộ vuốt, nét vẽ bằng máu đen.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_huyet_ha_phien,Huyết Hà Phiên đồ phổ,don_phuong,5,4,dp.huyet_ha_phien,3600,"Cuộn lụa đỏ sẫm, cầm vào ướt tay mà không thấy nước.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_van_quy_phien,Vạn Quỷ Phiên đồ phổ,don_phuong,5,5,dp.van_quy_phien,4000,"Sách bìa đen ghi tên những người đã luyện cờ này, dòng cuối còn để trống.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_xich_huy_tien,Xích Hủy Tiên đồ phổ,don_phuong,5,3,dp.xich_huy_tien,1530,"Thẻ đá khắc rắn sáu chân, sờ vào ấm tay.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_bi_hi_tran_bi,Bí Hí Trấn Bi đồ phổ,don_phuong,5,3,dp.bi_hi_tran_bi,1710,Bản rập chữ khắc ngược từ một tấm bia cổ.,co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_phi_lan_tieu,Phi Lân Tiêu đồ phổ,don_phuong,5,3,dp.phi_lan_tieu,1530,"Tờ giấy mỏng vẽ bảy phi tiêu, gió thổi là lật trang.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_lieu_nguyen_phien,Liệu Nguyên Phiến đồ phổ,don_phuong,5,4,dp.lieu_nguyen_phien,4000,"Lông hạc ép trong ngọc giản, đầu lông còn đỏ.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_quy_loi_co,Quỳ Lôi Cổ đồ phổ,don_phuong,5,4,dp.quy_loi_co,4000,"Bản vẽ trống trên da, gõ ngón tay lên nghe sấm xa.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_toan_nghe_lu,Toan Nghê Lư đồ phổ,don_phuong,5,4,dp.toan_nghe_lu,4000,"Ngọc giản thơm mùi trầm, để trong túi cả năm không bay.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_phi_liem_phong_y,Phi Liêm Phong Y đồ phổ,don_phuong,5,4,dp.phi_liem_phong_y,4000,"Lụa mỏng như sương, vẽ áo choàng, chặn đá mới đọc được.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_cuu_anh_ho,Cửu Anh Hồ đồ phổ,don_phuong,5,5,dp.cuu_anh_ho,4000,"Ngọc giản nửa lạnh nửa ấm, chữ hai nửa viết hai màu.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_cung_ky_dao,Cùng Kỳ Đao đồ phổ,don_phuong,5,5,dp.cung_ky_dao,4000,"Thẻ sắt khắc chữ, người lương thiện cầm lâu buốt tay.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_thao_thiet_an,Thao Thiết Ấn đồ phổ,don_phuong,5,5,dp.thao_thiet_an,4000,Bản rập vân thú từ một đỉnh đồng cổ.,co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_ly_long_giap,Ly Long Giáp đồ phổ,don_phuong,5,5,dp.ly_long_giap,4000,"Lụa xanh lam vẽ bộ giáp, mép ánh vàng.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_hoa_lan_truong,Hỏa Lân Trượng đồ phổ,don_phuong,5,5,dp.hoa_lan_truong,4000,"Thẻ gỗ tử đàn, đầu thẻ cháy sém một vệt nhỏ.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_tinh_dau_thuan,Tinh Đẩu Thuẫn đồ phổ,don_phuong,5,5,dp.tinh_dau_thuan,4000,Bản đồ sao bắc đẩu vẽ trên mai rùa nhỏ.,co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_hoa_loan_vu_y,Hỏa Loan Vũ Y đồ phổ,don_phuong,5,5,dp.hoa_loan_vu_y,4000,"Lụa đỏ vẽ áo, góc lụa có vết cháy đã lành.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_thanh_loan_tram,Thanh Loan Trâm đồ phổ,don_phuong,5,5,dp.thanh_loan_tram,4000,"Ngọc giản xanh như lá non, mặt giản vẽ một chiếc trâm.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_lang_nguyet_cau,Lang Nguyệt Câu đồ phổ,don_phuong,5,5,dp.lang_nguyet_cau,4000,"Da sói khô vẽ đôi câu, đêm trăng nét vẽ tự sáng.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_van_tuong_dien,Vạn Tướng Diện đồ phổ,don_phuong,5,5,dp.van_tuong_dien,4000,"Tấm lụa mỏng, nhìn nghiêng thấy thấp thoáng một khuôn mặt.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_long_huyet_thuong,Long Huyết Thương đồ phổ,don_phuong,5,5,dp.long_huyet_thuong,4000,Thẻ xương đỏ thẫm khắc mẫu thương.,co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_phu_dieu_si,Phù Diêu Sí đồ phổ,don_phuong,5,5,dp.phu_dieu_si,4000,"Lông vũ nhỏ kẹp trong lụa, buông tay thì lơ lửng.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_hung_tam_kinh,Hùng Tâm Kính đồ phổ,don_phuong,5,5,dp.hung_tam_kinh,4000,Bản rập thệ ấn Tuyết Bằng trên giấy dày.,co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_bach_ho_dao,Bạch Hổ Đao đồ phổ,don_phuong,5,5,dp.bach_ho_dao,4000,"Thẻ đồng khắc hổ trắng, vằn hổ là chữ.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_tu_sa_doc_cham,Tử Sa Độc Châm đồ phổ,don_phuong,5,5,dp.tu_sa_doc_cham,4000,"Ngọc giản tím, thơm mùi hoa, đừng ngửi lâu.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_vien_tam_moc_ngu,Viên Tâm Mộc Ngư đồ phổ,don_phuong,5,5,dp.vien_tam_moc_ngu,4000,"Cuốn kinh mỏng, trang cuối vẽ chiếc mõ.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_kim_thue_bao_y,Kim Thuế Bảo Y đồ phổ,don_phuong,5,5,dp.kim_thue_bao_y,4000,"Mảnh vảy vàng khắc chữ, của một miếu làng Viêm Quốc.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_liet_ung_cung,Liệt Ưng Cung đồ phổ,don_phuong,5,4,dp.liet_ung_cung,3600,"Thẻ gỗ Bắc Minh vẽ mũi tên, đuôi tên tô vàng.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_thon_kim_dai,Thôn Kim Đại đồ phổ,don_phuong,5,4,dp.thon_kim_dai,4000,"Bản vẽ của một thợ chợ đen, dặn bán thì đừng nói ra lò.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_cuu_pham_lien_dai_thiem,Cửu Phẩm Liên Đài đồ phổ (thiềm châu),don_phuong,5,4,dp.cuu_pham_lien_dai_thiem,4000,"Tờ giấy vẽ đài sen, giữa đài một vòng trăng tròn.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_tu_thu_tien_y_chu,Tử Thụ Tiên Y đồ phổ (vạn ti chu nang),don_phuong,5,4,dp.tu_thu_tien_y_chu,3830,"Cuộn lụa bạc mỏng, đọc dưới đèn mới thấy chữ.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_dinh_hai_chau_ca,Định Hải Châu đồ phổ (hải ca châu),don_phuong,5,4,dp.dinh_hai_chau_ca,3960,"Vỏ ốc lớn, áp tai nghe giọng người đọc cách luyện.",co|chi_khai_bao,/content/items/luyen_che/luyen_bao.yaml
+item.dp_tich_hon_kiem,Tịch Hồn Kiếm đồ phổ,don_phuong,2,0,dp.tich_hon_kiem,30,"Tờ giấy bản ố vàng, góc giấy loang vết nước giếng.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_am_anh_toa,Ám Ảnh Tỏa đồ phổ,don_phuong,3,1,dp.am_anh_toa,110,"Bản vẽ sợi xích trên lụa đen, phải soi nghiêng mới thấy nét.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_tich_am_y,Tịch Âm Y đồ phổ,don_phuong,3,1,dp.tich_am_y,110,"Mảnh lụa đen thêu chữ bằng chỉ bạc, sờ vào ẩm tay.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_khon_hon_phien,Khốn Hồn Phiên đồ phổ,don_phuong,4,2,dp.khon_hon_phien,420,"Bản vẽ lá cờ trên giấy tế, chín vòng xoáy tô bằng mực tro.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_toai_phach_thu,Toái Phách Thứ đồ phổ,don_phuong,5,3,dp.toai_phach_thu,1400,"Thẻ xương mỏng khắc chữ li ti, cầm lâu buốt tới khuỷu tay.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_khu_thi_linh_moc,Khu Thi Linh đồ phổ (táng âm mộc),don_phuong,5,3,dp.khu_thi_linh_moc,900,"Tấm ván quan tài mỏng, chữ khắc bằng mũi dao theo thớ gỗ.",,/content/items/luyen_che/luyen_bao.yaml
+item.dp_hoi_xuan_dan,Hồi Xuân Đan phương,don_phuong,2,0,dp.hoi_xuan_dan,30,"Tờ giấy bản ố vàng, chép tay nét chữ thầy lang. Đọc là thuộc.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_bo_khi_dan,Bổ Khí Đan phương,don_phuong,2,0,dp.bo_khi_dan,40,"Thẻ trúc buộc dây gai, ghi bí phương Bổ Khí Đan và cách canh lửa.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_sinh_co_dan,Sinh Cơ Đan phương,don_phuong,3,1,dp.sinh_co_dan,150,Ngọc giản ghi bí phương Sinh Cơ Đan. Đan đồ chưa lên đan sư mà cố luyện thì mười lò hỏng chín.,,/content/items/luyen_che/luyen_dan.yaml
+item.dp_tu_linh_dan,Tụ Linh Đan phương,don_phuong,3,1,dp.tu_linh_dan,180,"Ngọc giản ghi bí phương Tụ Linh Đan, kèm lời dặn dùng mãnh hỏa phá vỏ yêu đan.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_bao_huyet_dan,Bạo Huyết Đan phương,don_phuong,3,1,dp.bao_huyet_dan,120,Ngọc giản màu đỏ sẫm. Người chép đơn này lúc trước hẳn là tán tu quen liều mạng.,,/content/items/luyen_che/luyen_dan.yaml
+item.dp_truc_co_dan,Trúc Cơ Đan phương,don_phuong,3,1,dp.truc_co_dan,400,Ngọc giản có ấn của tông môn. Bí phương Trúc Cơ Đan không bao giờ lọt ra phường thị.,tong_mon,/content/items/luyen_che/luyen_dan.yaml
+item.dp_hoi_xuan_dan_thuy,Hồi Xuân Đan phương (sương sen),don_phuong,2,0,dp.hoi_xuan_dan_thuy,25,"Tờ đơn của dân vạn chài, viết bằng mực lọ nồi, mép giấy ám mùi cá.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_bo_khi_dan_cot,Bổ Khí Đan phương (cốt hoa),don_phuong,2,0,dp.bo_khi_dan_cot,35,"Mảnh da thú khắc chữ, thợ săn truyền tay nhau, vết dao rạch còn mới.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_bao_huyet_dan_mac,Bạo Huyết Đan phương (mạc đằng),don_phuong,3,1,dp.bao_huyet_dan_mac,110,"Ngọc giản nhuốm màu cát đỏ, chép vội trên đường vượt sa mạc.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_kim_sang_duoc,Kim Sang Dược phương,don_phuong,1,0,dp.kim_sang_duoc,10,"Tờ giấy gai thô, chép tay ba dòng. Thầy lang võ quán nào cũng giữ một bản.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_thong_mach_dan,Thông Mạch Đan phương,don_phuong,3,1,dp.thong_mach_dan,100,"Ngọc giản khắc hình đường kinh mạch, bên lề có chữ dặn nhỏ về lửa.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_quan_mach_dan,Quán Mạch Đan phương,don_phuong,5,3,dp.quan_mach_dan,1800,"Ngọc giản vàng sẫm, khắc kinh mạch toàn thân, niêm ấn đan phòng sơn môn.",tong_mon,/content/items/luyen_che/luyen_dan.yaml
+item.dp_thien_mach_dan,Thiên Mạch Đan phương,don_phuong,6,4,dp.thien_mach_dan,7000,"Cuộn lụa cổ, đường kinh mạch thêu bằng chỉ bạc. Ra ánh sáng là chỉ bạc lấp lánh như còn chạy.",co,/content/items/luyen_che/luyen_dan.yaml
+item.dp_tay_tuy_dan,Tẩy Tủy Đan phương,don_phuong,3,1,dp.tay_tuy_dan,120,"Ngọc giản có vệt cháy xém ở góc, như từng bị sét liếm qua.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_cai_menh_dan,Cải Mệnh Đan phương,don_phuong,4,2,dp.cai_menh_dan,1200,"Ngọc giản ba sắc đỏ, chàm, vàng nhạt chồng lên nhau, niêm ấn đan phòng sơn môn.",tong_mon,/content/items/luyen_che/luyen_dan.yaml
+item.dp_dich_cot_dan,Dịch Cốt Đan phương,don_phuong,6,4,dp.dich_cot_dan,10000,"Mảnh xương thú khắc chữ cổ, nét khắc ăn sâu như bị lửa liếm. Chỉ nghe nói trong đấu giá hội, ít ai thấy tận mắt.",co,/content/items/luyen_che/luyen_dan.yaml
+item.dp_thanh_tam_dan,Thanh Tâm Đan phương,don_phuong,3,1,dp.thanh_tam_dan,150,"Thẻ trúc xanh, chữ viết ngay ngắn, đọc xong thấy lòng bớt nôn nóng.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_tuc_mach_cao,Tục Mạch Cao phương,don_phuong,4,2,dp.tuc_mach_cao,450,"Ngọc giản dày, kèm hình vẽ cách vớt bọt cao bảy lần.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_tai_mach_cao,Tái Mạch Cao phương,don_phuong,5,3,dp.tai_mach_cao,2800,"Ngọc giản nửa trắng nửa đỏ, sờ một đầu buốt, một đầu ấm. Niêm ấn đan phòng sơn môn.",tong_mon,/content/items/luyen_che/luyen_dan.yaml
+item.dp_ngoc_tuy_cao,Ngọc Tủy Cao phương,don_phuong,6,4,dp.ngoc_tuy_cao,9000,"Phiến ngọc mỏng như cánh ve, chữ chìm trong lòng ngọc. Chỉ nghe nói trong đấu giá hội, ít ai thấy tận mắt.",co,/content/items/luyen_che/luyen_dan.yaml
+item.dp_hoan_hon_dan,Hoàn Hồn Đan phương,don_phuong,4,2,dp.hoan_hon_dan,800,"Ngọc giản lạnh tay, người chép đơn này hẳn đã từng kéo một người chết sống lại.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_ngung_nguyen_dan,Ngưng Nguyên Đan phương,don_phuong,4,2,dp.ngung_nguyen_dan,700,"Ngọc giản màu lam thẫm, chép rõ cách canh lửa cho rong tan thành giọt.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_duyen_tho_dan,Duyên Thọ Đan phương,don_phuong,4,2,dp.duyen_tho_dan,900,Ngọc giản có ấn của đan phòng đại tông. Cầm lên thấy nặng hơn vẻ ngoài.,tong_mon,/content/items/luyen_che/luyen_dan.yaml
+item.dp_ket_kim_dan,Kết Kim Đan phương,don_phuong,4,2,dp.ket_kim_dan,1200,"Ngọc giản vàng nhạt, có ấn tông môn. Kẻ nào cầm nó thì tông môn coi như đã nắm được một nửa người.",tong_mon,/content/items/luyen_che/luyen_dan.yaml
+item.dp_duong_anh_dan,Dưỡng Anh Đan phương,don_phuong,5,3,dp.duong_anh_dan,3500,"Ngọc giản mỏng như cánh ve, chữ chỉ hiện khi rót linh lực vào.",tong_mon,/content/items/luyen_che/luyen_dan.yaml
+item.dp_cuu_chuyen_kim_dan,Cửu Chuyển Kim Đan phương,don_phuong,5,3,dp.cuu_chuyen_kim_dan,3800,"Tấm da cổ nhòe chữ, chín vòng tròn vẽ liền nhau như chín lần luyện.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_pha_chuong_dan,Phá Chướng Đan phương,don_phuong,3,1,dp.pha_chuong_dan,300,"Thẻ trúc có vết nứt chạy dọc, chữ khắc né vết nứt mà đi.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_toai_bich_dan,Toái Bích Đan phương,don_phuong,4,2,dp.toai_bich_dan,850,"Phiến đá mỏng khắc chữ, mép vỡ lởm chởm như vừa đập ra từ vách núi.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_thong_huyen_dan,Thông Huyền Đan phương,don_phuong,5,3,dp.thong_huyen_dan,2400,"Ngọc giản tím, có một sợi chỉ bạc xuyên từ đầu này sang đầu kia, niêm ấn đan phòng sơn môn.",tong_mon,/content/items/luyen_che/luyen_dan.yaml
+item.dp_pha_hu_dan,Phá Hư Đan phương,don_phuong,6,4,dp.pha_hu_dan,6500,"Ngọc giản trong suốt, cầm lên như cầm khoảng không. Chỉ trưởng lão đan phòng đại tông mới giữ.",tong_mon,/content/items/luyen_che/luyen_dan.yaml
+item.dp_on_co_dan,Ôn Cơ Đan phương,don_phuong,2,0,dp.on_co_dan,120,"Thẻ gỗ tùng đã sẫm màu, cầm lâu vẫn thấy ấm tay.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_bo_khuyet_dan,Bổ Khuyết Đan phương,don_phuong,3,1,dp.bo_khuyet_dan,450,"Tấm da thuộc rách một góc, chỗ rách được khâu lại bằng chỉ vàng.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_hoan_nguyen_dan,Hoàn Nguyên Đan phương,don_phuong,4,2,dp.hoan_nguyen_dan,1200,"Ngọc giản màu hổ phách, niêm ấn đan phòng sơn môn, mở ra phải có trưởng lão gật đầu.",tong_mon,/content/items/luyen_che/luyen_dan.yaml
+item.dp_bo_thien_dan,Bổ Thiên Đan phương,don_phuong,5,3,dp.bo_thien_dan,4000,"Năm mảnh ngọc năm màu ghép lại mới đọc được trọn. Đại tông chia cho năm trưởng lão giữ, mỗi người một mảnh.",tong_mon,/content/items/luyen_che/luyen_dan.yaml
+item.dp_tich_doc_dan,Tịch Độc Đan phương,don_phuong,2,0,dp.tich_doc_dan,40,"Tờ giấy bản thầy lang chép, góc giấy có vết ố vàng như từng nhỏ mủ cóc lên.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_trang_dam_dan,Tráng Đảm Đan phương,don_phuong,2,0,dp.trang_dam_dan,45,"Thẻ trúc buộc dây đỏ, chữ viết theo lối miền nam Viêm Quốc.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_thanh_vu_dan,Thanh Vụ Đan phương,don_phuong,2,0,dp.thanh_vu_dan,30,"Tờ giấy gói trà mặt sau chép đơn, còn thơm mùi chè sương.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_tuy_ha_dan,Túy Hà Đan phương,don_phuong,2,0,dp.tuy_ha_dan,35,"Mảnh lụa lau chum rượu, ai đó chép đơn lên bằng than, chữ còn lem.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_bach_giai_dan,Bách Giải Đan phương,don_phuong,3,1,dp.bach_giai_dan,160,"Ngọc giản xanh rêu, có vẽ thứ tự bỏ thuốc bằng mũi tên.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_dinh_than_dan,Định Thần Đan phương,don_phuong,3,1,dp.dinh_than_dan,170,"Ngọc giản mát tay, đầu giản khắc một chữ Vạn nhỏ.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_bang_phach_dan,Băng Phách Đan phương,don_phuong,4,2,dp.bang_phach_dan,650,"Ngọc giản phủ một lớp sương mỏng, để trong túi cả năm vẫn không tan.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_duong_khi_dan,Dưỡng Khí Đan phương,don_phuong,1,0,dp.duong_khi_dan,15,"Tờ giấy dán sau cửa thiền phòng, mép đã cháy sém vì hương.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_khai_nguyen_dan,Khai Nguyên Đan phương,don_phuong,2,0,dp.khai_nguyen_dan,110,"Thẻ tre sơn xanh, mặt sau vẽ con cóc ngồi thiền.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_tu_khi_dan,Tụ Khí Đan phương,don_phuong,2,0,dp.tu_khi_dan,70,"Ngọc giản rẻ tiền, phường thị nào cũng có bán, chữ khắc nông vì chép đi chép lại nhiều đời.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_ngung_khi_dan,Ngưng Khí Đan phương,don_phuong,3,1,dp.ngung_khi_dan,380,Ngọc giản kẹp một sợi lông hạc trắng làm dấu.,,/content/items/luyen_che/luyen_dan.yaml
+item.dp_boi_nguyen_dan,Bồi Nguyên Đan phương,don_phuong,3,1,dp.boi_nguyen_dan,300,"Ngọc giản màu vàng đất, góc khắc một bông lúa.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_tinh_nguyen_dan,Tinh Nguyên Đan phương,don_phuong,4,2,dp.tinh_nguyen_dan,1000,"Ngọc giản lạnh tay, đầu giản khắc ấn đan phòng sơn môn.",tong_mon,/content/items/luyen_che/luyen_dan.yaml
+item.dp_kim_lo_dan,Kim Lộ Đan phương,don_phuong,4,2,dp.kim_lo_dan,800,"Ngọc giản đỏ, cầm lâu thấy rịn một lớp ẩm như sương.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_long_ho_dan,Long Hổ Đan phương,don_phuong,5,3,dp.long_ho_dan,3500,"Ngọc giản hai màu vàng trắng xoắn nhau, chỉ trao cho đệ tử đã Kết Đan.",tong_mon,/content/items/luyen_che/luyen_dan.yaml
+item.dp_boi_anh_dan,Bồi Anh Đan phương,don_phuong,5,3,dp.boi_anh_dan,2600,"Ngọc giản thơm mùi đào, niêm ấn trưởng lão đan phòng.",tong_mon,/content/items/luyen_che/luyen_dan.yaml
+item.dp_huyen_anh_dan,Huyền Anh Đan phương,don_phuong,6,4,dp.huyen_anh_dan,9000,"Tấm da thú đen, chữ viết bằng máu đã khô thành nâu.",co,/content/items/luyen_che/luyen_dan.yaml
+item.dp_duong_than_dan,Dưỡng Thần Đan phương,don_phuong,6,4,dp.duong_than_dan,7000,"Lá vàng mỏng gấp làm tám, mở ra còn ấm như vừa phơi nắng.",co,/content/items/luyen_che/luyen_dan.yaml
+item.dp_thai_hu_dan,Thái Hư Đan phương,don_phuong,7,5,dp.thai_hu_dan,25000,"Mảnh đá vách động cạy ra, chữ khắc sâu nửa đốt ngón tay, dòng cuối bị đục mất.",co,/content/items/luyen_che/luyen_dan.yaml
+item.dp_loi_am_dan,Lôi Âm Đan phương,don_phuong,4,2,dp.loi_am_dan,700,"Ngọc giản cháy đen một góc, cầm lên tóc gáy dựng đứng.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_tinh_phach_dan,Tĩnh Phách Đan phương,don_phuong,4,2,dp.tinh_phach_dan,600,"Thẻ trúc phủ sương, chữ khắc bằng mũi kim băng.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_luyen_cot_dan,Luyện Cốt Đan phương,don_phuong,5,3,dp.luyen_cot_dan,2800,"Mảnh xương sói mài phẳng, chữ khắc theo lối thợ săn Lang Hoang.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_truong_xuan_dan,Trường Xuân Đan phương,don_phuong,5,3,dp.truong_xuan_dan,2600,"Cuộn lụa vàng ố, trong kẹp một sợi tóc bạc đã đen lại nửa chân.",co,/content/items/luyen_che/luyen_dan.yaml
+item.dp_thong_than_dan,Thông Thần Đan phương,don_phuong,5,3,dp.thong_than_dan,3000,"Ngọc giản đen, rót linh lực vào thì chữ hiện ra như sao đêm.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_tran_hon_dan,Trấn Hồn Đan phương,don_phuong,5,3,dp.tran_hon_dan,2400,"Thẻ ngọc trắng lạnh, mặt sau khắc một cây đinh.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_hoa_anh_dan,Hóa Anh Đan phương,don_phuong,5,3,dp.hoa_anh_dan,3500,"Tấm da rắn đỏ chép chữ nguệch ngoạc, bên lề ghi bảy lần hỏng lò trước khi thành.",co,/content/items/luyen_che/luyen_dan.yaml
+item.dp_tai_tao_dan,Tái Tạo Đan phương,don_phuong,5,3,dp.tai_tao_dan,2800,"Ngọc giản đỏ thẫm, chữ viết bằng mực pha chu sa, đọc lên thấy ấm tay.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_van_sinh_dan,Vạn Sinh Đan phương,don_phuong,6,4,dp.van_sinh_dan,5000,"Ngọc giản xanh biếc, mở ra nghe như có tiếng mưa rơi trong rừng sâu.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_hoi_thien_dan,Hồi Thiên Đan phương,don_phuong,6,4,dp.hoi_thien_dan,5000,"Ngọc giản tím quấn tơ bạc, mở ra thơm mùi nấm rừng.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_han_tuy_dan,Hàn Tủy Đan phương,don_phuong,6,4,dp.han_tuy_dan,7000,"Phiến băng không tan, chữ đông trong lòng băng như cá dưới hồ.",co,/content/items/luyen_che/luyen_dan.yaml
+item.dp_due_kim_dan,Duệ Kim Đan phương,don_phuong,6,4,dp.due_kim_dan,6500,"Lá thép mỏng cuộn tròn, mép sắc, đọc phải cẩn thận kẻo đứt tay.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_thuong_long_dan,Thương Long Đan phương,don_phuong,7,5,dp.thuong_long_dan,12000,"Vỏ ốc biển khắc chữ cả trong lẫn ngoài, áp tai nghe tiếng sóng đọc đơn.",co,/content/items/luyen_che/luyen_dan.yaml
+item.dp_kim_o_dan,Kim Ô Đan phương,don_phuong,7,5,dp.kim_o_dan,15000,"Đĩa đồng vẽ con quạ ba chân giữa vầng mặt trời, nóng tay quanh năm.",co,/content/items/luyen_che/luyen_dan.yaml
+item.dp_van_tho_dan,Vạn Thọ Đan phương,don_phuong,7,5,dp.van_tho_dan,22000,"Mảnh mai rùa khắc chữ, vân nứt đã chạy xuyên mấy dòng.",co,/content/items/luyen_che/luyen_dan.yaml
+item.dp_tao_hoa_dan,Tạo Hóa Đan phương,don_phuong,7,5,dp.tao_hoa_dan,20000,"Phiến gỗ xanh còn sống, mỗi năm mọc thêm một vòng vân quanh chữ.",co,/content/items/luyen_che/luyen_dan.yaml
+item.dp_hoa_long_dan,Hóa Long Đan phương,don_phuong,7,5,dp.hoa_long_dan,25000,"Tấm da rắn lột trọn vẹn, chữ viết dọc theo sống lưng từ đầu tới đuôi.",co,/content/items/luyen_che/luyen_dan.yaml
+item.dp_van_tam_dan,Vấn Tâm Đan phương,don_phuong,7,5,dp.van_tam_dan,20000,"Gương đồng nhỏ, chữ chỉ hiện khi người soi đã thôi nóng ruột.",co,/content/items/luyen_che/luyen_dan.yaml
+item.dp_thien_nhat_dan,Thiên Nhất Đan phương,don_phuong,7,5,dp.thien_nhat_dan,22000,"Ngọc giản xanh chỉ ghi chín chữ, đọc xong mới thấy đủ cả đơn.",co,/content/items/luyen_che/luyen_dan.yaml
+item.dp_linh_lung_dan,Linh Lung Đan phương,don_phuong,7,5,dp.linh_lung_dan,12000,"Ống sáo ngọc bảy lỗ, chữ khắc vòng quanh thân sáo.",co,/content/items/luyen_che/luyen_dan.yaml
+item.dp_thien_loi_dan,Thiên Lôi Đan phương,don_phuong,7,5,dp.thien_loi_dan,20000,"Thẻ gỗ sét đánh, chữ là vết cháy chứ không phải nét khắc.",co,/content/items/luyen_che/luyen_dan.yaml
+item.dp_bach_giai_dan_giac,Bách Giải Đan phương (tê giác),don_phuong,3,1,dp.bach_giai_dan_giac,140,"Thẻ trúc của thầy lang miền núi, vẽ con tê giác bên cạnh vị thuốc.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_bo_khi_dan_mat,Bổ Khí Đan phương (phong mật),don_phuong,2,0,dp.bo_khi_dan_mat,10,"Tờ giấy dầu dính mật, chữ nhòe mà vẫn đọc được.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_hoi_xuan_dan_dia,Hồi Xuân Đan phương (đỉa dịch),don_phuong,2,0,dp.hoi_xuan_dan_dia,10,"Mảnh giấy bản gấp tư, nét chữ của một lang trung vùng đầm.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_thong_mach_dan_giap,Thông Mạch Đan phương (vảy tê tê),don_phuong,3,0,dp.thong_mach_dan_giap,50,"Thẻ gỗ khắc hình con tê tê cuộn tròn, mặt sau ghi lửa sao từng khắc.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_khai_nguyen_dan_nhung,Khai Nguyên Đan phương (lộc nhung),don_phuong,2,0,dp.khai_nguyen_dan_nhung,40,"Ngọc giản xanh nhạt, đầu giản khắc một cặp sừng hươu.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_dinh_than_dan_kinh,Định Thần Đan phương (gương cổ),don_phuong,3,1,dp.dinh_than_dan_kinh,150,"Ngọc giản có một mặt mài bóng như gương, chữ hiện ngược.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_thong_than_dan_tuy,Thông Thần Đan phương (ngọc tủy),don_phuong,5,3,dp.thong_than_dan_tuy,1800,"Ngọc giản trong như nước, giữa giản có một đốm xanh lục.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_dinh_nhan_dan,Định Nhan Đan phương,don_phuong,5,3,dp.dinh_nhan_dan,1500,"Ngọc giản trắng ngà chép cách ủ giao liên với sương sớm, giữ cho cánh sen không rụng trong lửa.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_hoan_hon_dan_dang,Hoàn Hồn Đan phương (minh đăng thảo),don_phuong,4,2,dp.hoan_hon_dan_dang,400,"Tờ giấy tiền vàng mã chép chữ son, mép giấy cháy sém.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_tran_hon_dan_chi,Trấn Hồn Đan phương (âm hồn chi),don_phuong,5,3,dp.tran_hon_dan_chi,2000,"Thẻ ngọc đen, mặt sau khắc một cây nấm nhỏ.",,/content/items/luyen_che/luyen_dan.yaml
+item.dp_van_tam_dan_sam,Vấn Tâm Đan phương (hoàng tuyền sâm),don_phuong,7,5,dp.van_tam_dan_sam,18000,"Bia đá nhỏ bằng bàn tay, chữ khắc ngược như để người dưới mộ đọc.",co,/content/items/luyen_che/luyen_dan.yaml
+item.dp_tran_thach_bich,Thạch Bích trận đồ,don_phuong,2,0,dp.tran_thach_bich,45,"Thẻ gỗ đào chép trận phòng thân của trận sư phường thị, nét khắc to bằng ngón tay.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_dang_la,Đằng La trận đồ,don_phuong,2,0,dp.tran_dang_la,45,"Tấm giấy dầu vẽ một vòng dây leo quấn chín vòng, chỗ thắt nút đánh dấu son.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_liem_tuc,Liễm Tức trận đồ,don_phuong,2,0,dp.tran_liem_tuc,45,"Thẻ trúc nhỏ chép trận giấu hơi thở, mặt sau dặn khắc lúc đêm không trăng.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_tam_tai_kiem,Tam Tài Kiếm trận đồ,don_phuong,2,0,dp.tran_tam_tai_kiem,45,"Thẻ gỗ vẽ ba thanh kiếm xếp hình chữ phẩm, chỗ mũi kiếm có vết dao khắc thử.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_at_moc,Ất Mộc trận đồ,don_phuong,2,0,dp.tran_at_moc,45,"Lá cây khô ép giữa hai thanh tre, gân lá chính là nét trận.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_ly_hoa,Ly Hỏa trận đồ,don_phuong,2,0,dp.tran_ly_hoa,45,"Tấm da mỏng vẽ trận bằng mực đỏ, mép da sém lửa.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_pha_giap,Phá Giáp trận đồ,don_phuong,2,0,dp.tran_pha_giap,45,"Thẻ gỗ vẽ hai mũi dùi bắt chéo, nét khắc sâu tới mức thủng mặt sau.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_tan_linh,Tán Linh trận đồ,don_phuong,2,0,dp.tran_tan_linh,45,"Tờ giấy bản vẽ một vòng xoáy hút vào giữa, mực đã ngả màu nâu.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_kho_moc,Khô Mộc trận đồ,don_phuong,2,0,dp.tran_kho_moc,45,"Thẻ gỗ mục một nửa, nửa còn lại chép trận làm khô héo sinh cơ.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_dan_linh,Dẫn Linh trận đồ,don_phuong,2,0,dp.tran_dan_linh,45,Thẻ trúc vẽ một vòng tròn có chín đường tỏa ra như nan quạt.,,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_thanh_moc_duc_linh,Thanh Mộc Dục Linh trận đồ,don_phuong,2,0,dp.tran_thanh_moc_duc_linh,45,"Tờ giấy nông gia chép trận giục cây, góc giấy có vết bùn ruộng.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_suc_dia,Súc Địa trận đồ,don_phuong,2,0,dp.tran_suc_dia,45,"Thẻ gỗ khắc hai chấm nối nhau bằng một đường gấp khúc, như tấm địa đồ gấp lại.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_huyen_quy,Huyền Quy trận đồ,don_phuong,3,1,dp.tran_huyen_quy,150,"Mảnh mai rùa khắc chữ nhỏ li ti, đọc theo vòng xoắn từ ngoài vào trong.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_van_vu,Vân Vụ Mê trận đồ,don_phuong,3,1,dp.tran_van_vu,150,"Ngọc giản mờ đục như có sương bên trong, áp lên trán mới thấy nét trận.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_lien_hoan_kiem,Liên Hoàn Kiếm trận đồ,don_phuong,3,1,dp.tran_lien_hoan_kiem,150,"Ngọc giản xanh vẽ bảy thanh kiếm nối đuôi nhau thành vòng, kiếm sau ngậm chuôi kiếm trước.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_canh_kim,Canh Kim trận đồ,don_phuong,3,1,dp.tran_canh_kim,150,"Ngọc giản trắng lạnh tay, chép trận dẫn kim khí vào đòn đánh.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_quy_thuy,Quý Thủy trận đồ,don_phuong,3,1,dp.tran_quy_thuy,150,"Ngọc giản xanh lam, lật nghiêng thấy nét trận như nước chảy bên trong.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_mau_tho,Mậu Thổ trận đồ,don_phuong,3,1,dp.tran_mau_tho,150,"Ngọc giản vàng sẫm, sờ vào thấy nhám như đá.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_toai_bich,Toái Bích trận đồ,don_phuong,3,1,dp.tran_toai_bich,150,"Ngọc giản vẽ một bức tường nứt từ chân lên, mỗi đường nứt ghi một chữ.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_phong_mach,Phong Mạch trận đồ,don_phuong,3,1,dp.tran_phong_mach,150,"Ngọc giản chép trận phong mạch, mặt giản có vết khắc như đường đê.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_tu_linh,Tụ Linh trận đồ,don_phuong,3,1,dp.tran_tu_linh,150,"Ngọc giản xanh chép trận tụ linh khí, trận sư phường thị nào cũng thuộc.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_thong_mach,Thông Mạch trận đồ,don_phuong,3,1,dp.tran_thong_mach,150,"Ngọc giản vẽ hình người ngồi thiền, kinh lạc trên người là nét trận.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_van_ly,Vạn Lý trận đồ,don_phuong,3,1,dp.tran_van_ly,150,"Ngọc giản khắc hai mặt, mặt trước là trận đi, mặt sau là trận đến.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_thien_la,Thiên La Khốn trận đồ,don_phuong,4,2,dp.tran_thien_la,420,"Tấm lụa đen dệt thưa, nhìn kỹ mỗi mắt lưới là một nét trận.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_binh_hoa,Bính Hỏa trận đồ,don_phuong,4,2,dp.tran_binh_hoa,420,"Ngọc giản đỏ ấm như than, áp lâu thì nóng rát tay.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_toa_linh,Tỏa Linh trận đồ,don_phuong,4,2,dp.tran_toa_linh,420,"Ngọc giản chép trận khóa linh khí, nét trận đan nhau như xích sắt.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_ngu_hanh_tu_linh,Ngũ Hành Tụ Linh trận đồ,don_phuong,4,2,dp.tran_ngu_hanh_tu_linh,420,"Ngọc giản năm màu, mỗi màu chép một góc trận.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_tuyet_sinh,Tuyệt Sinh trận đồ,don_phuong,4,2,dp.tran_tuyet_sinh,420,"Ngọc giản xám, quanh viền mọc một lớp mốc đen lau mãi không sạch.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_doan_mach,Đoạn Mạch trận đồ,don_phuong,4,2,dp.tran_doan_mach,420,"Ngọc giản chép trận cắt đứt linh mạch, nét trận đứt quãng từng đoạn.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_xich_diem_kiem,Xích Diễm Kiếm trận đồ,don_phuong,4,2,dp.tran_xich_diem_kiem,450,"Tờ giấy da vẽ sáu thanh kiếm bằng mực đỏ, mép giấy cháy xém.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_xuan_phong_hoa_vu,Xuân Phong Hóa Vũ trận đồ,don_phuong,4,2,dp.tran_xuan_phong_hoa_vu,420,"Ngọc giản xanh mát, chép trận gọi gió xuân mưa nhỏ cho linh điền.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_can_khon,Càn Khôn trận đồ,don_phuong,4,2,dp.tran_can_khon,420,"Ngọc giản khắc hai mặt trời đất, giữa có một đường gấp tám khúc.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_cuu_cung_kiem,Cửu Cung Kiếm trận đồ,don_phuong,5,3,dp.tran_cuu_cung_kiem,1200,"Ngọc giản chép chín cung kiếm trận, cầm lên nghe tiếng kiếm ngân rất khẽ.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_thai_bach,Thái Bạch trận đồ,don_phuong,5,3,dp.tran_thai_bach,1200,"Ngọc giản trắng như sao Thái Bạch, đặt dưới trăng thì phát sáng.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_thanh_de,Thanh Đế trận đồ,don_phuong,5,3,dp.tran_thanh_de,1200,"Ngọc giản xanh biếc, lâu lâu nảy ra một chồi non rồi héo.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_hau_tho,Hậu Thổ trận đồ,don_phuong,5,3,dp.tran_hau_tho,1200,"Ngọc giản nặng như đá tảng, chép trận mượn thổ khí của núi.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_bat_quai_me_tung,Bát Quái Mê Tung trận đồ,don_phuong,5,3,dp.tran_bat_quai_me_tung,1200,"Ngọc giản vẽ bát quái, mỗi lần nhìn thấy các quẻ đổi chỗ.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_pha_quan,Phá Quân trận đồ,don_phuong,5,3,dp.tran_pha_quan,1200,"Ngọc giản chép trận phá thuẫn của binh gia, giản có vết giáo đâm thủng.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_kim_cang,Kim Cang Hộ trận đồ,don_phuong,5,3,dp.tran_kim_cang,1200,"Ngọc giản vàng chép kinh và trận xen nhau, chữ kinh viết to hơn chữ trận.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_chu_thien_tu_linh,Chu Thiên Tụ Linh trận đồ,don_phuong,5,3,dp.tran_chu_thien_tu_linh,1200,"Ngọc giản đen điểm ánh sao, chép đủ tinh đồ một năm.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_thien_co,Thiên Cơ trận đồ,don_phuong,6,4,dp.tran_thien_co,3000,"Ngọc giản không chữ, rót thần thức vào mới hiện nét trận, mỗi lần một khác.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_van_moc_hoi_xuan,Vạn Mộc Hồi Xuân trận đồ,don_phuong,6,4,dp.tran_van_moc_hoi_xuan,3000,"Ngọc giản xanh có mùi gỗ mới, cắm xuống đất thì đâm rễ.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_toa_long,Tỏa Long trận đồ,don_phuong,6,4,dp.tran_toa_long,3000,"Ngọc giản vẽ một con rồng bị chín xích khóa, xích nào cũng ghi tên một sao.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_huyen_minh,Huyền Minh trận đồ,don_phuong,6,4,dp.tran_huyen_minh,3000,"Ngọc giản đen sâu như nước vực, nhìn vào thấy bóng mình méo đi.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_tan_nguyen,Tán Nguyên trận đồ,don_phuong,6,4,dp.tran_tan_nguyen,3000,"Ngọc giản chép trận tán nguyên khí, nét xoáy loe ra như nước rút khỏi bãi.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_thien_cuong_toa_linh,Thiên Cương Tỏa Linh trận đồ,don_phuong,6,4,dp.tran_thien_cuong_toa_linh,3000,"Ngọc giản khắc ba mươi sáu chấm sao nối bằng xích, chấm nào cũng có lỗ đinh.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_tich_diet,Tịch Diệt trận đồ,don_phuong,6,4,dp.tran_tich_diet,3000,"Ngọc giản xám tro, cầm lâu móng tay đổi màu.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_cuu_tieu_loi,Cửu Tiêu Lôi trận đồ,don_phuong,6,4,dp.tran_cuu_tieu_loi,3200,"Ngọc giản xanh tím, cầm vào nghe tê đầu ngón tay như chạm sét.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_van_tuong_tu_linh,Vạn Tượng Tụ Linh trận đồ,don_phuong,6,4,dp.tran_van_tuong_tu_linh,3000,"Ngọc giản vẽ núi sông thu nhỏ, dòng sông trên giản chảy thật.",,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_chu_tuoc,Chu Tước trận đồ,don_phuong,7,5,dp.tran_chu_tuoc,8200,"Tấm vũ đồ đỏ rực vẽ chim lửa dang cánh, nét cánh là nét trận.",co,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_van_nhac,Vạn Nhạc Trấn Sơn trận đồ,don_phuong,7,5,dp.tran_van_nhac,8200,"Tấm bia đá thu nhỏ khắc vạn ngọn núi, nhấc lên nặng như nhấc cả dãy núi.",co,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_tru_tien_kiem,Tru Tiên Kiếm trận đồ,don_phuong,7,5,dp.tran_tru_tien_kiem,8200,"Bức họa cổ vẽ bốn thanh kiếm treo trên bốn cửa, mép giấy có vết cắt.",co,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_hon_nguyen_tu_linh,Hỗn Nguyên Tụ Linh trận đồ,don_phuong,7,5,dp.tran_hon_nguyen_tu_linh,8200,"Ngọc giản không màu, trong như nước, nhìn lâu thấy trời đất mới mở.",co,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_cau_hon,Câu Hồn trận đồ,don_phuong,3,1,dp.tran_cau_hon,165,"Tấm da người thuộc mỏng, chữ viết bằng mực đen pha tro hương.",ma|co,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_huyet_te,Huyết Tế trận đồ,don_phuong,3,1,dp.tran_huyet_te,165,"Thẻ xương khắc chữ, rãnh chữ còn đóng cặn máu khô.",ma|co,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_tu_hon,Tụ Hồn trận đồ,don_phuong,4,2,dp.tran_tu_hon,462,"Thẻ xương đen, chữ khắc bằng móng tay, đọc lên nghe lạnh gáy.",ma|co,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_van_huyet,Vạn Huyết trận đồ,don_phuong,5,3,dp.tran_van_huyet,1320,"Thẻ xương đỏ thẫm, rãnh chữ ứa máu tươi dù đã khắc từ lâu.",ma|co,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_cuu_u,Cửu U trận đồ,don_phuong,6,4,dp.tran_cuu_u,3300,"Thẻ xương đen có chín lỗ, thổi vào nghe như gió lùa trong mộ.",ma|co,/content/items/luyen_che/tran_phap.yaml
+item.dp_tran_huyet_hai,Huyết Hải trận đồ,don_phuong,7,5,dp.tran_huyet_hai,9020,"Thẻ xương ngâm máu, đặt xuống đâu là chỗ đó loang đỏ.",ma|co,/content/items/luyen_che/tran_phap.yaml
+item.dp_thu_thu_phu,Thu Thú Phù phương,don_phuong,2,0,dp.thu_thu_phu,50,"Thẻ tre của thợ săn linh thú, chép vòng dây leo để hở một nét.",,/content/items/ngu_linh/thu_thu_phu.yaml
+item.dp_thu_linh_phu,Thu Linh Phù phương,don_phuong,3,1,dp.thu_linh_phu,150,"Cuộn lụa vẽ chín vòng dây leo lồng nhau, mép lụa có vết móng thú cào.",,/content/items/ngu_linh/thu_thu_phu.yaml
+item.dp_thanh_bang_si,Thanh Bằng Sí đồ phổ,don_phuong,4,2,dp.thanh_bang_si,600,"Tấm lụa vẽ khung cánh, đánh số từng cọng lông theo thứ tự cắm. Cắm ngược một cọng, cánh bay lệch.",,/content/items/phuong_tien.yaml
+item.dp_kim_bang_si,Kim Bằng Sí đồ phổ,don_phuong,5,3,dp.kim_bang_si,2400,"Ngọc giản của một luyện khí sư Bắc Minh, ghi cách dát vàng lên xương cánh bằng mà không làm gãy.",,/content/items/phuong_tien.yaml
+item.dp_con_bang_si,Côn Bằng Sí cổ phổ,don_phuong,6,4,dp.con_bang_si,7000,"Ngọc giản băng của Tuyết Bằng tộc, khắc đôi cánh Côn Bằng từ trước trận Đoạn Thiên. Áp lên trán nghe tiếng gió hú.",co,/content/items/phuong_tien.yaml

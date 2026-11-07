@@ -1,0 +1,3 @@
+﻿id,ten,loai,pham_cap,gia,mo_ta,_file
+item.huyen_vu_lenh,Huyền Vũ Lệnh,lenh_bai,3,400,"Thẻ đồng khắc rùa đen của Bắc Minh. Thuyền tuyến Ngao Dương thấy thẻ là cho lên, không hỏi tiền.",/content/items/lenh_bai.yaml
+item.van_bao_thong_hanh,Vạn Bảo Thông Hành,lenh_bai,3,450,"Thẻ ngà đóng ấn Vạn Bảo Thương Hội. Đi tuyến Vĩnh Triều chỉ trả nửa tiền vé, chấp sự còn rót trà mời.",/content/items/lenh_bai.yaml

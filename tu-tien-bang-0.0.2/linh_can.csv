@@ -1,0 +1,7 @@
+﻿id,ten,mo_ta,xam,toc_do,dot_pha,tong_mon,ti_le_nac,so_he,hat_moi_he,bac_dot_pha,thien_menh,he_bien_di,hat_bien_di,hat_goc,_file
+linh_can.vo,Vô linh căn,"Không cảm ứng được linh khí: tu luyện ×0,5, kinh mạch toàn ô xám. Muốn bước vào Luyện Khí phải có công pháp.",1,0.5,-0.1,-20,10|5|0|0|0,,,-1,,,,,/content/player/linh_can.yaml
+linh_can.tap,Tạp linh căn,"Ba, bốn hệ lẫn lộn, linh khí tạp: tu luyện ×0,8, đột phá −5%.",0.15,0.8,-0.05,-10,45|45|40|30|14,3|4,2,-1,true,,,,/content/player/linh_can.yaml
+linh_can.song,Song linh căn,"Hai hệ: tu luyện ×1, lưới kinh mạch chia hai màu.",0.15,1,0,0,30|35|40|45|50,2|2,2,,true,,,,/content/player/linh_can.yaml
+linh_can.thien,Thiên linh căn,"Một hệ thuần khiết, trăm năm khó gặp: tu luyện ×1,3, đột phá +10%, lưới gần như một màu.",0.1,1.3,0.1,15,5|5|8|12|15,1|1,1,1,true,,,,/content/player/linh_can.yaml
+linh_can.bien_di,Biến dị linh căn,"Hệ biến dị (Lôi, Băng, Phong hoặc Ám): tu luyện ×1,2. Sinh khắc tính theo hệ gốc của nó, nhưng lưới có nhiều ô xám hơn.",0.25,1.2,0.05,10,10|10|12|13|15,,,,,loi|bang|phong|am,2,1,/content/player/linh_can.yaml
+linh_can.ngu_hanh,Ngũ hành linh căn,"Đủ cả năm hệ Kim, Mộc, Thủy, Hỏa, Thổ: tu luyện ×0,8. Mỗi hệ gom thành một mảng lớn trên lưới nên mảnh nào cũng có chỗ khớp màu; dễ vào tông môn hơn. Chỉ bốc được khi mở nấc Linh căn cao nhất.",0.15,0.8,0,5,0|0|0|0|6,5|5,1,,,,,,/content/player/linh_can.yaml
